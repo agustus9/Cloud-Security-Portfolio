@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" width="400"/>
+</p>
 
 <!DOCTYPE html>
 <html lang="en">
