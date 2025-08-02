@@ -57,3 +57,12 @@ Mastering tools and processes for continuous monitoring, incident detection, res
 ## Domain 6: Legal, Risk, and Compliance ![Badge](https://img.shields.io/badge/Legal-Risk-green?style=for-the-badge&logo=gavel)
 
 Understanding relevant laws, regulations, and frameworks governing cloud security. Learning risk management techniques to ensure compliance and mitigate legal and operational risks.
+
+---
+
+## Projects or Labs
+
+- **Cloud Security Fundamentals Lab** — Hands-on exercises covering cloud deployment models, security controls, and best practices. *(Link to online lab or resource)*  
+- **Data Encryption Demo** — Implementing encryption techniques for data at rest and in transit in cloud environments. *(Link or description)*  
+- **Secure Cloud Architecture Design** — Building resilient and secure cloud architectures using best practices. *(Link or description)*  
+- **Incident Response Simulation** — Practicing incident detection and response in a cloud setting. *(Link or description)*  
