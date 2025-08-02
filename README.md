@@ -63,7 +63,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 ## Projects or Labs
 
 <!-- Cloud Security Fundamentals Lab -->
-<a href="./projects-labs.md#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
+<a href="Cloud-Security-Portfolio
+/projects-labs.md#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
   <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
     Cloud Security Fundamentals Lab
   </button>
@@ -71,7 +72,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 - Hands-on exercises covering cloud deployment models, security controls, and best practices.
 
 <!-- Data Encryption Demo -->
-<a href="./projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
+<a href="Cloud-Security-Portfolio
+/projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
   <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
     Data Encryption Demo
   </button>
@@ -79,7 +81,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 - Demonstrations of encryption techniques for data at rest and in transit within cloud environments.
 
 <!-- Secure Cloud Architecture Design -->
-<a href="./projects-labs.md#secure-cloud-architecture-design" target="_blank" style="text-decoration:none;">
+<a href="Cloud-Security-Portfolio
+/projects-labs.md#secure-cloud-architecture-design" target="_blank" style="text-decoration:none;">
   <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
     Secure Cloud Architecture Design
   </button>
@@ -87,7 +90,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 - Designing resilient and secure cloud architectures following industry best practices.
 
 <!-- Incident Response Simulation -->
-<a href="./projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
+<a href="Cloud-Security-Portfolio
+/projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
   <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
     Incident Response Simulation
   </button>
