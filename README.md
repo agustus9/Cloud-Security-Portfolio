@@ -10,7 +10,7 @@
 </head>
 <body>
   <p align="center">
-  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" style="width: 850px; border-radius: 12px;" />
+  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" style="width: 910px; border-radius: 12px;" />
 </p>
 </body>
 </html>
