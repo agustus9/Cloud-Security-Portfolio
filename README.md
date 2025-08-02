@@ -26,16 +26,7 @@ This portfolio showcases my understanding and progress across the six key domain
 
 Cloud computing has transformed the way organizations operate by providing scalable, flexible, and cost-effective infrastructure and services. However, along with these benefits come unique security challenges that require specialized strategies and controls.
 
-This portfolio showcases my understanding of core cloud security principles across six key domains:
-- Cloud Concepts, Architecture, and Design
-- Cloud Data Security
-- Cloud Platform and Infrastructure Security
-- Cloud Application Security
-- Cloud Security Operations
-- Legal, Risk, and Compliance
-- Projects/Labs
-
-Through practical labs, projects, and continuous learning, I aim to develop robust skills to secure cloud environments and ensure data integrity, confidentiality, and availability in an ever-evolving digital landscape.
+This portfolio showcases my understanding of core cloud security principles across six key domains, including labs:
 
 ---
 
