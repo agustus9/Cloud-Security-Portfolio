@@ -15,6 +15,28 @@
 </body>
 </html>
 
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.banner {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+
 # Cloud Security Portfolio
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Last commit](https://img.shields.io/github/last-commit/yourusername/your-repo) ![License](https://img.shields.io/github/license/yourusername/your-repo)
