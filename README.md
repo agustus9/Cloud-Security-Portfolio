@@ -63,7 +63,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 ## Projects or Labs
 
 <!-- Cloud Security Fundamentals Lab -->
-<a href="projects-labs.md#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
+<a href="projects-labs#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
   <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
     Cloud Security Fundamentals Lab
   </button>
