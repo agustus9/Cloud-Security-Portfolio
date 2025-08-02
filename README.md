@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" style="width: 400px; border-radius: 12px;" />
-</p>
+
 
 
 <!DOCTYPE html>
@@ -11,9 +9,9 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="container">
-    <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
-  </div>
+  <p align="center">
+  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" style="width: 400px; border-radius: 12px;" />
+</p>
 </body>
 </html>
 
