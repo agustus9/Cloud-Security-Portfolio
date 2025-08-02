@@ -9,7 +9,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="cloud-security-portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
+    <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
     <h1>Welcome to My Cloud Security Portfolio</h1>
     <p>This portfolio showcases labs, tools, and frameworks related to cloud security engineering, governance, and architecture.</p>
   </div>
