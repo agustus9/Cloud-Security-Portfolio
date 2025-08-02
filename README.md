@@ -4,26 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cloud Security Portfolio</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="container">
     <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
-    <h1>Welcome to My Cloud Security Portfolio</h1>
-    <p>This portfolio showcases labs, tools, and frameworks related to cloud security engineering, governance, and architecture.</p>
+    <h1>Cloud Security Portfolio</h1>
+    <p>This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.</p>
   </div>
 </body>
 </html>
 
-
-# Cloud Security Portfolio
-
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Last commit](https://img.shields.io/github/last-commit/yourusername/your-repo) ![License](https://img.shields.io/github/license/yourusername/your-repo)
-
-This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
-
----
 
 # Cloud Security Portfolio
 
