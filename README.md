@@ -33,6 +33,7 @@ This portfolio showcases my understanding of core cloud security principles acro
 - Cloud Application Security
 - Cloud Security Operations
 - Legal, Risk, and Compliance
+- Projects/Labs
 
 Through practical labs, projects, and continuous learning, I aim to develop robust skills to secure cloud environments and ensure data integrity, confidentiality, and availability in an ever-evolving digital landscape.
 
@@ -74,7 +75,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-## Projects or Labs
+## Projects/Labs
 
 <!-- Cloud Security Fundamentals Lab -->
 <a href="Cloud-Security-Portfolio
