@@ -9,8 +9,6 @@
 <body>
   <div class="container">
     <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
-    <h1>Cloud Security Portfolio</h1>
-    <p>This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.</p>
   </div>
 </body>
 </html>
