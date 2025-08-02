@@ -16,11 +16,27 @@
 </html>
 
 
-# Cloud Security Portfolio
+# Cloud Security Summary
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Last commit](https://img.shields.io/github/last-commit/yourusername/your-repo) ![License](https://img.shields.io/github/license/yourusername/your-repo)
 
 This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
+
+---
+
+# Cloud Security Overview
+
+Cloud computing has transformed the way organizations operate by providing scalable, flexible, and cost-effective infrastructure and services. However, along with these benefits come unique security challenges that require specialized strategies and controls.
+
+This portfolio showcases my understanding of core cloud security principles across six key domains:
+- Cloud Concepts, Architecture, and Design
+- Cloud Data Security
+- Cloud Platform and Infrastructure Security
+- Cloud Application Security
+- Cloud Security Operations
+- Legal, Risk, and Compliance
+
+Through practical labs, projects, and continuous learning, I aim to develop robust skills to secure cloud environments and ensure data integrity, confidentiality, and availability in an ever-evolving digital landscape.
 
 ---
 
