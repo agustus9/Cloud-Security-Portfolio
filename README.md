@@ -18,8 +18,6 @@
 
 # Cloud Security Summary
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Last commit](https://img.shields.io/github/last-commit/yourusername/your-repo) ![License](https://img.shields.io/github/license/yourusername/your-repo)
-
 This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
 
 ---
@@ -29,12 +27,47 @@ This portfolio showcases my understanding and progress across the six key domain
 Cloud computing has transformed the way organizations operate by providing scalable, flexible, and cost-effective infrastructure and services. However, along with these benefits come unique security challenges that require specialized strategies and controls.
 
 This portfolio showcases my understanding of core cloud security principles across six key domains:
-- Cloud Concepts, Architecture, and Design
-- Cloud Data Security
-- Cloud Platform and Infrastructure Security
-- Cloud Application Security
-- Cloud Security Operations
-- Legal, Risk, and Compliance
+<!-- Cloud Concepts, Architecture, and Design -->
+<a href="#cloud-concepts-architecture-and-design" style="text-decoration:none;">
+  <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Concepts, Architecture, and Design
+  </button>
+</a>
+
+<!-- Cloud Data Security -->
+<a href="#cloud-data-security" style="text-decoration:none;">
+  <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Data Security
+  </button>
+</a>
+
+<!-- Cloud Platform and Infrastructure Security -->
+<a href="#cloud-platform-and-infrastructure-security" style="text-decoration:none;">
+  <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Platform and Infrastructure Security
+  </button>
+</a>
+
+<!-- Cloud Application Security -->
+<a href="#cloud-application-security" style="text-decoration:none;">
+  <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Application Security
+  </button>
+</a>
+
+<!-- Cloud Security Operations -->
+<a href="#cloud-security-operations" style="text-decoration:none;">
+  <button style="background-color:#9c27b0; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Security Operations
+  </button>
+</a>
+
+<!-- Legal, Risk, and Compliance -->
+<a href="#legal-risk-and-compliance" style="text-decoration:none;">
+  <button style="background-color:#009688; border:none; color:white; padding:10px 20px; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Legal, Risk, and Compliance
+  </button>
+</a>
 
 Through practical labs, projects, and continuous learning, I aim to develop robust skills to secure cloud environments and ensure data integrity, confidentiality, and availability in an ever-evolving digital landscape.
 
