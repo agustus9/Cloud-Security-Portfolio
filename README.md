@@ -10,9 +10,6 @@
 <body>
   <div class="container">
     <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
-    <p align="center">
-  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" width="500"/>
-</p>
   </div>
 </body>
 </html>
