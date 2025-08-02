@@ -12,10 +12,7 @@
     <h1>Cloud-Security-Portfolio</h1>
     <p>This portfolio showcases a dynamic collection of my skills and projects in cloud security, showcasing my progress in secure cloud architecture, risk management, and compliance. Continuously updated to reflect my growth and commitment to advancing in cloud cybersecurity.</p>
   </div>
-</body>
-</html>
-
-body {
+  body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #f9f9f9;
@@ -36,6 +33,8 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+</body>
+</html>
 
 # Cloud Security Portfolio
 
