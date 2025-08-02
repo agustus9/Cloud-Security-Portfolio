@@ -11,6 +11,15 @@
   <div class="container">
     <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
   </div>
+  .banner {
+  width: 100%;
+  max-width: 400px; /* Smaller max-width for better fit */
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
 </body>
 </html>
 
