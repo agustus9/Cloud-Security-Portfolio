@@ -23,17 +23,15 @@ This portfolio showcases my understanding and progress across the six key domain
 
 ---
 
-## Domain 1: Cloud Concepts, Architecture, and Design ![Cloud Icon](https://img.shields.io/badge/Cloud-Concepts-brightgreen.svg)
-![Architecture Image](https://via.placeholder.com/600x200?text=Cloud+Architecture)
+## Domain 1: Cloud Concepts, Architecture, and Design
+![Cloud Concepts Badge](https://img.shields.io/badge/Cloud%20Concepts-Design-brightgreen?style=for-the-badge&logo=cloud)
+*Understanding the fundamental principles of cloud computing, including deployment models and architectural frameworks.*
 
-Understanding the fundamental principles of cloud computing, including deployment models (public, private, hybrid) and architectural frameworks. Focus on designing scalable, resilient, and secure cloud solutions.
+## Domain 2: Cloud Data Security
+![Data Security Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
+*Exploring methods to protect data throughout its lifecycle, such as encryption and privacy techniques.*
 
----
-
-## Domain 2: Cloud Data Security ![Data Icon](https://img.shields.io/badge/Data-Security-blue.svg)
-![Data Security Image](https://via.placeholder.com/600x200?text=Data+Protection)
-
-Exploring methods to protect data throughout its lifecycle, such as encryption, data masking, and privacy techniques. Emphasis on securing data at rest, in transit, and during processing.
+<!-- Repeat for other domains -->
 
 ---
 
