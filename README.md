@@ -10,7 +10,7 @@
 <body>
   <div class="container">
     <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio Banner" class="banner" />
-    <h1>Welcome to My Cloud Security Portfolio</h1>
+    <h1>Cloud-Security-Portfolio</h1>
     <p>This portfolio showcases a dynamic collection of my skills and projects in cloud security, showcasing my progress in secure cloud architecture, risk management, and compliance. Continuously updated to reflect my growth and commitment to advancing in cloud cybersecurity.</p>
   </div>
 </body>
