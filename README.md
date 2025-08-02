@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" width="400"/>
+  <img src="cloud_security_portfolio.png" alt="Cloud Security Portfolio" width="500"/>
 </p>
 
 <!DOCTYPE html>
