@@ -60,9 +60,28 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-## Projects or Labs
+## Projects/Labs
 
-- **Cloud Security Fundamentals Lab** — Hands-on exercises covering cloud deployment models, security controls, and best practices. *(Link to online lab or resource)*  
-- **Data Encryption Demo** — Implementing encryption techniques for data at rest and in transit in cloud environments. *(Link or description)*  
-- **Secure Cloud Architecture Design** — Building resilient and secure cloud architectures using best practices. *(Link or description)*  
-- **Incident Response Simulation** — Practicing incident detection and response in a cloud setting. *(Link or description)*  
+<a href="https://link-to-your-lab1" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Cloud Security Fundamentals Lab
+  </button>
+</a>
+
+<a href="https://link-to-your-lab2" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Data Encryption Demo
+  </button>
+</a>
+
+<a href="https://link-to-your-lab3" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Secure Cloud Architecture Design
+  </button>
+</a>
+
+<a href="https://link-to-your-lab4" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Incident Response Simulation
+  </button>
+</a>
