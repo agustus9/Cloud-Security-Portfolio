@@ -77,7 +77,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Implement API Management to Publish APIs Securely.
 
-<!-- Configure Geo-Replication for your Database -->
+- <!-- Configure Geo-Replication for your Database -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
   <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
@@ -86,7 +86,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Configure Geo-Replication for your Database within cloud environments.
 
-<!-- Configure Virtual Network Connectivity using Peering -->
+- <!-- Configure Virtual Network Connectivity using Peering -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#secure-cloud-architecture-design" target="_blank" style="text-decoration:none;">
   <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
@@ -95,7 +95,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Practicing Configuring Virtual Network Connectivity using Peering.
 
-<!-- Create and Configure Application Security Groups -->
+- <!-- Create and Configure Application Security Groups -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
   <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
