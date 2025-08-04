@@ -68,38 +68,47 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ## Projects/Labs
 
-<!-- Cloud Security Fundamentals Lab -->
+<!-- Implement API Management to Publish APIs Securely -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
   <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Cloud Security Fundamentals Lab
+    Implement API Management to Publish APIs Securely
   </button>
 </a>
-- Hands-on exercises covering cloud deployment models, security controls, and best practices.
+- Implement API Management to Publish APIs Securely.
 
-<!-- Data Encryption Demo -->
+<!-- Configure Geo-Replication for your Database -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
   <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Data Encryption Demo
+    Configure Geo-Replication for your Database
   </button>
 </a>
-- Demonstrations of encryption techniques for data at rest and in transit within cloud environments.
+- Configure Geo-Replication for your Database within cloud environments.
 
-<!-- Secure Cloud Architecture Design -->
+<!-- Configure Virtual Network Connectivity using Peering -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#secure-cloud-architecture-design" target="_blank" style="text-decoration:none;">
   <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Secure Cloud Architecture Design
+    Configure Virtual Network Connectivity using Peering
   </button>
 </a>
-- Designing resilient and secure cloud architectures following industry best practices.
+- Practicing Configuring Virtual Network Connectivity using Peering.
 
-<!-- Incident Response Simulation -->
+<!-- Create and Configure Application Security Groups -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
   <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Incident Response Simulation
+    Create and Configure Application Security Groups
   </button>
 </a>
-- Practicing incident detection, response strategies, and operational resilience in cloud environments.
+- Practicing Create and Configure Application Security Groups in cloud environments.
+
+- <!-- Configure Azure Disk Encryption -->
+<a href="Cloud-Security-Portfolio
+/projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
+    Configure Azure Disk Encryption
+  </button>
+</a>
+- Practicing Configuring Azure Disk Encryption in cloud environments.
