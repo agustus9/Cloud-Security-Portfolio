@@ -75,7 +75,6 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
     Implement API Management to Publish APIs Securely
   </button>
 </a>
-- Implement API Management to Publish APIs Securely.
 
 - Configured and managed secure API gateways to facilitate safe, controlled access to cloud-hosted APIs. Implemented authentication, authorization, and encryption protocols to ensure API data integrity and confidentiality. This project emphasizes API security best practices, access control, and securing application interfaces in a cloud environment.
 
@@ -86,7 +85,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
     Configure Geo-Replication for your Database
   </button>
 </a>
-- Configure Geo-Replication for your Database within cloud environments.
+- Set up geo-replication for a cloud database to ensure high availability, disaster recovery, and data redundancy across multiple regions. Implemented synchronization, failover strategies, and monitored replication health to maintain data integrity and minimize latency, aligning with data security and business continuity principles.
 
 <!-- Configure Virtual Network Connectivity using Peering -->
 <a href="Cloud-Security-Portfolio
@@ -95,7 +94,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
     Configure Virtual Network Connectivity using Peering
   </button>
 </a>
-- Practicing Configuring Virtual Network Connectivity using Peering.
+- Established secure virtual network peering between multiple cloud virtual networks to enable seamless and private communication. Configured routing, access controls, and security policies to protect data in transit and prevent unauthorized access, supporting infrastructure security and network segmentation.
 
 <!-- Create and Configure Application Security Groups -->
 <a href="Cloud-Security-Portfolio
@@ -104,7 +103,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
     Create and Configure Application Security Groups
   </button>
 </a>
-- Practicing Create and Configure Application Security Groups in cloud environments.
+- Designed and implemented Application Security Groups (ASGs) to segment network resources and enforce security policies within the cloud environment. Defined rules for inbound and outbound traffic, enhancing network security and reducing attack surface by isolating sensitive workloads.
 
 <!-- Configure Azure Disk Encryption -->
 <a href="Cloud-Security-Portfolio
@@ -113,4 +112,4 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
     Configure Azure Disk Encryption
   </button>
 </a>
-- Practicing Configuring Azure Disk Encryption in cloud environments.
+- Enabled disk encryption for virtual machine disks to protect data at rest within the cloud environment. Integrated encryption with Azure Key Vault for key management, ensuring compliance with data security standards and safeguarding sensitive stored data from unauthorized access.
