@@ -77,6 +77,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Implement API Management to Publish APIs Securely.
 
+- Configured and managed secure API gateways to facilitate safe, controlled access to cloud-hosted APIs. Implemented authentication, authorization, and encryption protocols to ensure API data integrity and confidentiality. This project emphasizes API security best practices, access control, and securing application interfaces in a cloud environment.
+
 <!-- Configure Geo-Replication for your Database -->
 <a href="Cloud-Security-Portfolio
 /projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
