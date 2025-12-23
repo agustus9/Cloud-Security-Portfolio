@@ -321,7 +321,19 @@ sequenceDiagram
     AWS->>AWS: Verify Token & Trust Policy
     AWS->>User: Access to Resources
 
-    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <p align="center">
+  <img src="diagram-of-multi-iam-federation-architecture-showing.png" alt="Federation Architecture" style="width: 1020px; height: 620px; border-radius: 12px;" />
+</p>
+</body>
+</html>
 ---
 
 ## 🚀 4. Best Practices & Technical Considerations
