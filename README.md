@@ -18,7 +18,7 @@
 
 # Summary
 
-This portfolio showcases my understanding and progress across the six key domains of Cloud Security & IAM. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
+This portfolio showcases my understanding of Cloud Security & IAM and protecting cloud environments, and managing user access effectively. Cloud Security involves implementing measures such as encryption, firewalls, and monitoring to safeguard data and resources in the cloud. Identity and Access Management (IAM) ensures that the right individuals have secure access to the appropriate resources, using tools like multi-factor authentication, role-based access control, and user policies. Together, they form the foundation for secure, compliant, and efficient cloud operations.
 
 ---
 
