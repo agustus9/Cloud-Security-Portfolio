@@ -127,7 +127,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Enabled disk encryption for virtual machine disks to protect data at rest within the cloud environment. Integrated encryption with Azure Key Vault for key management, ensuring compliance with data security standards and safeguarding sensitive stored data from unauthorized access.
 
---
+---
 
 ### **Identity and Access Management (IAM)**
 
