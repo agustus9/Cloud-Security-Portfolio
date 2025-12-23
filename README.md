@@ -247,44 +247,51 @@ In complex enterprise environments, integrating multiple IAM systems enhances se
 
 ---
 
-### **Process Workflow**
+graph TD
+    subgraph External IdPs
+        Okta[Okta]
+        Azure[Azure AD]
+        Salesforce[Salesforce]
+    end
 
-+-----------------+                          +------------------------------+                          +------------------+
-|  Salesforce     |                          |  AWS IAM Identity Provider   |                          |   AWS Resources  |
-| (IdP - Authenticates User) |               | (Trusts Salesforce as IdP)    |                          | (S3, EC2, etc.) |
-+-----------------+                          +------------------------------+                          +------------------+
-        |                                             |                                              |
-        |  User attempts access via Salesforce SSO    |                                              |
-        | ------------------------------------------> |                                              |
-        |                                             |                                              |
-        |  Salesforce issues SAML Assertion            |                                              |
-        | ------------------------------------------> |                                              |
-        |                                             |                                              |
-        |                                             |  AWS verifies SAML assertion and trust   |
-        |                                             | ----------------------------------------> |
-        |                                             |                                              |
-        |                                             |  AWS assigns temporary credentials based on role |
-        |                                             | <---------------------------------------- |
-        |  User gains access to AWS resources          |                                              |
-        +--------------------------------------------> |                                              |
+    subgraph Cloud Resources
+        AWS[AWS]
+        Office365[Office 365]
+        SalesforceRes[Salesforce]
+    end
 
-
-
-Salesforce User --> Authenticate via Salesforce
-        |                             |
-        |   Generate SAML Assertion    |
-        |----------------------------->|
-        |                              |
-AWS consumes SAML assertion and verifies trust
-        |                              |
-User gains temporary AWS credentials
-
-
-+--------------+             +------------------------------+             +--------------+
-|  User        |  Authenticate via Salesforce  |  Verify & Trust   |  AWS       |
-+--------------+             +------------------------------+             +--------------+
-
+    Okta -->|Trust| AWS
+    Azure -->|Trust| AWS
+    Salesforce -->|Trust| AWS
+    Okta -->|Trust| Office365
+    Azure -->|Trust| Office365
+    Salesforce -->|Trust| SalesforceRes
+    
 ---
+
+sequenceDiagram
+    participant User
+    participant Salesforce
+    participant AWSIdP
+    participant AWS
+
+    User->>Salesforce: Login & MFA
+    Salesforce->>User: SAML Assertion
+    User->>AWSIdP: Send SAML Assertion
+    AWSIdP->>AWS: Verify & Trust
+    AWS->>User: Temporary Credentials
+
+    ---
+
+    graph TD
+    IdP[External IdP (Okta/Azure AD)]
+    Cloud[Cloud Service (AWS)]
+    Resources[Resources (S3, EC2, etc.)]
+
+    IdP -- Trust Policy --> Cloud
+    Cloud -- Role Assumption --> Resources
+
+    ---
 
 ## 3. Federating AWS with External IAMs (Okta, Azure AD)
 
