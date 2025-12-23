@@ -79,56 +79,6 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-## Projects/Labs
-
-<!-- Implement API Management to Publish APIs Securely -->
-<a href="Cloud-Security-Portfolio
-/projects-labs.md#cloud-security-fundamentals-lab" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#4CAF50; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Implement API Management to Publish APIs Securely
-  </button>
-</a>
-
-- Configured and managed secure API gateways to facilitate safe, controlled access to cloud-hosted APIs. Implemented authentication, authorization, and encryption protocols to ensure API data integrity and confidentiality. This project emphasizes API security best practices, access control, and securing application interfaces in a cloud environment.
-
-<!-- Configure Geo-Replication for your Database -->
-<a href="Cloud-Security-Portfolio
-/projects-labs.md#data-encryption-demo" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#2196F3; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Configure Geo-Replication for your Database
-  </button>
-</a>
-- Set up geo-replication for a cloud database to ensure high availability, disaster recovery, and data redundancy across multiple regions. Implemented synchronization, failover strategies, and monitored replication health to maintain data integrity and minimize latency, aligning with data security and business continuity principles.
-
-<!-- Configure Virtual Network Connectivity using Peering -->
-<a href="Cloud-Security-Portfolio
-/projects-labs.md#secure-cloud-architecture-design" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#f44336; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Configure Virtual Network Connectivity using Peering
-  </button>
-</a>
-- Established secure virtual network peering between multiple cloud virtual networks to enable seamless and private communication. Configured routing, access controls, and security policies to protect data in transit and prevent unauthorized access, supporting infrastructure security and network segmentation.
-
-<!-- Create and Configure Application Security Groups -->
-<a href="Cloud-Security-Portfolio
-/projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Create and Configure Application Security Groups
-  </button>
-</a>
-- Designed and implemented Application Security Groups (ASGs) to segment network resources and enforce security policies within the cloud environment. Defined rules for inbound and outbound traffic, enhancing network security and reducing attack surface by isolating sensitive workloads.
-
-<!-- Configure Azure Disk Encryption -->
-<a href="Cloud-Security-Portfolio
-/projects-labs.md#incident-response-simulation" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#ff9800; border:none; color:white; padding:10px 20px; text-align:center; font-size:14px; margin:4px 2px; cursor:pointer; border-radius:4px;">
-    Configure Azure Disk Encryption
-  </button>
-</a>
-- Enabled disk encryption for virtual machine disks to protect data at rest within the cloud environment. Integrated encryption with Azure Key Vault for key management, ensuring compliance with data security standards and safeguarding sensitive stored data from unauthorized access.
-
----
-
 ### **Identity and Access Management (IAM)**
 
 **Identity and Access Management (IAM)** is a fundamental aspect of cloud security that involves managing digital identities and controlling access to cloud resources. It ensures that only authorized users and systems can perform specific actions, thereby safeguarding sensitive data and infrastructure.
@@ -257,5 +207,9 @@ Here are some popular **Identity and Access Management (IAM)** tools that can he
 ---
 
 **Choosing the right IAM tools** depends on your cloud environment, organizational size, and security needs. Combining these solutions can help you build a more secure, flexible, and scalable identity management system.
+
+---
+
+## Projects/Labs
 
   Still in progress.....
