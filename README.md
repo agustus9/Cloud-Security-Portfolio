@@ -330,7 +330,7 @@ sequenceDiagram
 </head>
 <body>
   <p align="center">
-  <img src="diagram-of-multi-iam-federation-architecture-showing.png" alt="Federation Architecture" style="width: 820px; height: 620px; border-radius: 12px;" />
+  <img src="diagram-of-multi-iam-federation-architecture-showing.png" alt="Federation Architecture" style="width: 820px; height: 420px; border-radius: 12px;" />
 </p>
 </body>
 </html>
@@ -372,12 +372,8 @@ Implementing these best practices ensures a robust, secure, and manageable IAM e
 
 ---
 
-Would you like me to prepare this within a larger document or include it with diagrams and code snippets?
-
----
 ## 🌐 Multi-IAM Federation Architecture
 
-```mermaid
 graph TD
     %% External Identity Providers (IdPs)
     subgraph External IdPs
