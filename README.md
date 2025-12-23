@@ -310,32 +310,18 @@ sequenceDiagram
 
 ---
 
-### **Workflow Overview**
+sequenceDiagram
+    participant User
+    participant ExternalIdP
+    participant AWS
 
-+--------------+                   +--------------------------+                   +--------------+
-| User         |                   | External IdP (Okta/Azure AD) |               | AWS Resources |
-+--------------+                   +--------------------------+                   +--------------+
-        |                                               |                            |
-        |  Authenticate via External IdP                |                            |
-        |----------------------------------------------->|                            |
-        |                                               |                            |
-        |   IdP issues SAML/OAuth/OpenID Connect token  |                            |
-        |<----------------------------------------------|                            |
-        |                                               |                            |
-        |  User presents token to AWS via federation    |                            |
-        |----------------------------------------------->|                            |
-        |                                               |                            |
-        |  AWS verifies token and trust policy           |                            |
-        |<----------------------------------------------|                            |
-        |                                               |                            |
-        |  User gains access to AWS resources            |                            |
-+--------------+                   +--------------------------+                   +--------------+
+    User->>ExternalIdP: Login & MFA
+    ExternalIdP->>User: SAML/OAuth/OpenID Token
+    User->>AWS: Present Token via Federation
+    AWS->>AWS: Verify Token & Trust Policy
+    AWS->>User: Access to Resources
 
-
-+--------------+             +------------------------------+             +--------------+
-|  User        |  Authenticate via External IdP (Okta/Azure AD)  |  Verify & Access  | AWS Resources |
-+--------------+             +------------------------------+             +--------------+
-
+    
 ---
 
 ## 🚀 4. Best Practices & Technical Considerations
