@@ -330,7 +330,7 @@ sequenceDiagram
 </head>
 <body>
   <p align="center">
-  <img src="diagram-of-multi-iam-federation-architecture-showing.png" alt="Federation Architecture" style="width: 1020px; height: 620px; border-radius: 12px;" />
+  <img src="diagram-of-multi-iam-federation-architecture-showing.png" alt="Federation Architecture" style="width: 820px; height: 620px; border-radius: 12px;" />
 </p>
 </body>
 </html>
@@ -375,18 +375,30 @@ Implementing these best practices ensures a robust, secure, and manageable IAM e
 Would you like me to prepare this within a larger document or include it with diagrams and code snippets?
 
 ---
+## 🌐 Multi-IAM Federation Architecture
 
-             +----------------+        Trust        +--------------+
-             |    Okta        | ------------------> |   AWS IAM    |
-             +----------------+                    +--------------+
-                     |                                    |
-                     |                                    |
-             +----------------+        Trust        +--------------+
-             |  Azure AD      | ------------------> | Office 365  |
-             +----------------+                    +--------------+
-                     |                                    |
-             +----------------+        Trust        +--------------+
-             |  Salesforce    | ------------------> |   AWS       |
-             +----------------+                    +--------------+
+```mermaid
+graph TD
+    %% External Identity Providers (IdPs)
+    subgraph External IdPs
+        Okta[Okta]
+        Azure[Azure AD]
+        Salesforce[Salesforce]
+    end
+
+    %% Cloud Resources (Target Services)
+    subgraph Cloud Resources
+        AWS[AWS]
+        Office365[Office 365]
+        SalesforceRes[Salesforce]
+    end
+
+    %% Trust relationships
+    Okta -->|Trust| AWS
+    Azure -->|Trust| AWS
+    Salesforce -->|Trust| AWS
+    Okta -->|Trust| Office365
+    Azure -->|Trust| Office365
+    Salesforce -->|Trust| SalesforceRes
 
   Still in progress.....
