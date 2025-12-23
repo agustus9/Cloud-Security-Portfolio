@@ -40,7 +40,7 @@ Cloud Security & IAM are vital for safeguarding sensitive information, maintaini
 
 ---
 
-***Cloud Security Domains***
+*** Cloud Security Domains ***
 
 ---
 ## Domain 1: Cloud Concepts, Architecture, and Design! [Badge](https://img.shields.io/badge/Cloud%20Concepts-Architecture-brightblue?style=for-the-badge&logo=cloud)
