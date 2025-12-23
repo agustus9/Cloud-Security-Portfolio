@@ -127,4 +127,29 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 </a>
 - Enabled disk encryption for virtual machine disks to protect data at rest within the cloud environment. Integrated encryption with Azure Key Vault for key management, ensuring compliance with data security standards and safeguarding sensitive stored data from unauthorized access.
 
+--
+
+### **Identity and Access Management (IAM)**
+
+**Identity and Access Management (IAM)** is a fundamental aspect of cloud security that involves managing digital identities and controlling access to cloud resources. It ensures that only authorized users and systems can perform specific actions, thereby safeguarding sensitive data and infrastructure.
+
+**Core Features of IAM:**
+- **User Identity Management:** Creating, updating, and deleting user accounts.
+- **Authentication:** Verifying user identities through methods such as passwords, MFA, and federated identity providers.
+- **Authorization:** Assigning permissions and roles to define what resources users can access and what actions they can perform.
+- **Role-Based Access Control (RBAC):** Simplifies permission management by assigning predefined roles to users based on their responsibilities.
+- **Policy Management:** Defining security policies that govern access rules and conditions.
+
+**Best Practices:**
+- Implement multi-factor authentication (MFA) for all users.
+- Follow the principle of least privilege—grant only necessary permissions.
+- Regularly review and audit access logs and permissions.
+- Use roles and groups to streamline permission management.
+
+**Benefits:**
+- Enhanced security by controlling access tightly
+- Simplified user management
+- Improved compliance with regulatory standards
+- Reduced risk of insider threats and data breaches
+
   Still in progress.....
