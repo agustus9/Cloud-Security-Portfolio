@@ -205,4 +205,32 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
+# 🔐 IAM Tools
+
+Here are some popular **Identity and Access Management (IAM)** tools that can help you streamline user management, permissions, and security:
+
+---
+
+## ☁️ Cloud Provider Native IAM Tools
+- **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
+- **Azure Active Directory (Azure AD)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
+- **Google Cloud IAM**: Google's IAM service for managing access and permissions across Google Cloud resources.
+
+---
+
+## 🛠️ Third-Party IAM Solutions
+- **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
+- **Ping Identity**: Advanced authentication and access management supporting multi-factor authentication and zero-trust security.
+- **Auth0**: Developer-friendly identity platform with support for various authentication methods and custom rules.
+- **Salesforce**: Built-in identity and access management features within the Salesforce ecosystem, enabling secure user access and federation.
+
+---
+
+## 🧩 Open Source IAM Tools
+- **FreeIPA**: Linux-based centralized identity management system for authentication and policy enforcement.
+
+---
+
+**Choosing the right IAM tools** depends on your cloud environment, organizational size, and security needs. Combining these solutions can help you build a more secure, flexible, and scalable identity management system.
+
   Still in progress.....
