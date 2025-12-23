@@ -18,11 +18,11 @@
 
 # Summary
 
-This portfolio showcases my understanding and progress across the six key domains of cloud security. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
+This portfolio showcases my understanding and progress across the six key domains of Cloud Security & IAM. Each section highlights core concepts, best practices, and strategies for securing cloud environments.
 
 ---
 
-# Cloud Security Overview
+# Cloud Security & IAM Overview
 
 Cloud computing has transformed the way organizations operate by providing scalable, flexible, and cost-effective infrastructure and services. However, along with these benefits come unique security challenges that require specialized strategies and controls.
 
