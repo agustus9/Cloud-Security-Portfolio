@@ -43,7 +43,7 @@ Cloud Security & IAM are vital for safeguarding sensitive information, maintaini
 Cloud Security Domains
 
 ---
-## Domain 1: Cloud Concepts, Architecture, and Design! [Badge](https://img.shields.io/badge/Cloud%20Concepts-Architecture-brightblue?style=for-the-badge&logo=cloud)
+## Domain 1: Cloud Concepts, Architecture, and Design! ![Badge](https://img.shields.io/badge/Cloud%20Concepts-Architecture-brightblue?style=for-the-badge&logo=cloud)
 
 Understanding the fundamental principles of cloud computing, including deployment models (public, private, hybrid) and architectural frameworks. Focus on designing scalable, resilient, and secure cloud solutions that meet organizational needs. Emphasizes best practices in cloud architecture, service models, and designing for high availability and disaster recovery.
 ---
