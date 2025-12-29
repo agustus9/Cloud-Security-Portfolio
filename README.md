@@ -148,6 +148,9 @@ Configure Salesforce application with SAML in Okta Admin Portal
 1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
 
+2) Click on Salesforce to get to General Settings
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal2.png)
+
 Configure SP-Initiated SAML between Salesforce and Okta
 
 LCM: Configure Salesforce for Life Cycle Management
