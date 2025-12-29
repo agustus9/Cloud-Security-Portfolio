@@ -206,7 +206,7 @@ Here are some popular **Identity and Access Management (IAM)** tools that can he
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
 - **Ping Identity**: Advanced authentication and access management supporting multi-factor authentication and zero-trust security.
 - **Auth0**: Developer-friendly identity platform with support for various authentication methods and custom rules.
-- **Salesforce**: Built-in identity and access management features within the Salesforce ecosystem, enabling secure user access and federation.
+- **SailPoint**: Built-in identity and access management features within the Salesforce ecosystem, enabling secure user access and federation.
 
 ---
 
