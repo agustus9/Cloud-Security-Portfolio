@@ -106,7 +106,8 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ## **Okta Labs**
 Creating Users in the Admin Console
-1) Select Add User
+---
+1) Select Add Person
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Add_Users.png)
 
 Assigning Super Admin Role to a User
