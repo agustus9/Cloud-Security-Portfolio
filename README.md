@@ -143,10 +143,10 @@ Configure Group Membership Rules
 4) Add Rule
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules4.png)
 
-Add and configure a SWA Application 
----
-
 Configure Salesforce application with SAML in Okta Admin Portal 
+---
+1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
 
 Configure SP-Initiated SAML between Salesforce and Okta
 
