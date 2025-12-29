@@ -108,9 +108,9 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-## 1. **Assess and Identify Resources**
-- List all cloud resources (databases, storage, compute instances, etc.).
-- Determine the sensitivity and importance of each resource.
+## 1. **Creating Users in the Admin Console**
+-  Assigning Super Admin Role to a User
+-  Configure Group Membership Rules
 
 ---
 
