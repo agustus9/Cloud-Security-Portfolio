@@ -144,7 +144,7 @@ Configure Group Membership Rules
 4) Add Rule
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules4.png) 
 
-Configure Salesforce application with SAML in Okta Admin Portal
+Configure Salesforce application with SAML in Okta Admin Portal 
 
 Configure SP-Initiated SAML between Salesforce and Okta
 
