@@ -104,7 +104,9 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-## **Okta Labs**
+## **Okta Labs: User Management and Role Assignment**
+In this lab, we explored the process of creating and managing user accounts within the Okta Admin Console. We began by adding new users, then assigned the Super Admin role to elevate their permissions. The steps included selecting users, assigning roles, and saving changes to ensure proper access control. This hands-on experience demonstrated how to effectively manage user privileges and maintain security within the Okta identity management platform.
+
 Creating Users in the Admin Console
 ---
 1) Select Add Person
