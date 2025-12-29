@@ -139,12 +139,6 @@ Setup: Get the Authorization Server & Token Endpoint URLs
 
 ---
 
-# 🔐 IAM Tools
-
-Here are some popular **Identity and Access Management (IAM)** tools that can help you streamline user management, permissions, and security:
-
----
-
 ## ☁️ Cloud Provider Native IAM Tools
 - **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
 - **Azure Active Directory (Azure AD)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
@@ -194,31 +188,6 @@ Here are some popular **Identity and Access Management (IAM)** tools that can he
 ### 📝 Summary
 Implementing these best practices ensures a robust, secure, and manageable IAM environment across your cloud and on-premises infrastructure.
 
----
 
-## 🌐 Multi-IAM Federation Architecture
 
-graph TD
-    %% External Identity Providers (IdPs)
-    subgraph External IdPs
-        Okta[Okta]
-        Azure[Azure AD]
-        Salesforce[Salesforce]
-    end
-
-    %% Cloud Resources (Target Services)
-    subgraph Cloud Resources
-        AWS[AWS]
-        Office365[Office 365]
-        SalesforceRes[Salesforce]
-    end
-
-    %% Trust relationships
-    Okta -->|Trust| AWS
-    Azure -->|Trust| AWS
-    Salesforce -->|Trust| AWS
-    Okta -->|Trust| Office365
-    Azure -->|Trust| Office365
-    Salesforce -->|Trust| SalesforceRes
-
-  Still in progress.....
+Still in progress.....
