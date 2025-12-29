@@ -112,11 +112,13 @@ Creating Users in the Admin Console
 
 Assigning Super Admin Role to a User
 ---
-2) Add Admin
+2) Select Admin
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin.png)
 
 Assigning Super Admin Role to a User cont...
-
+---
+3) Select Role
+4) 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_2.png)
 
 Configure Group Membership Rules
