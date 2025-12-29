@@ -118,8 +118,9 @@ Assigning Super Admin Role to a User
 Assigning Super Admin Role to a User cont...
 ---
 3) Select Role
--Next
-4) Save Changes
+---
+Next
+5) Save Changes
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_2.png)
 
 Configure Group Membership Rules
