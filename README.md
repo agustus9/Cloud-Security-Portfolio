@@ -148,8 +148,11 @@ Configure Salesforce application with SAML in Okta Admin Portal
 1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
 
-2) Click on Salesforce to get to General Settings
+2) Click on Salesforce to get to General Settings, then click next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal2.png)
+
+3) At the Sign-On Options tab, select SAML 2.0 and for Application username format, select Custom
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal3.png)
 
 Configure SP-Initiated SAML between Salesforce and Okta
 
