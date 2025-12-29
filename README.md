@@ -126,7 +126,7 @@ Next
 ---
 Last
 
-6) User Elevated to Admin
+6) User Elevated to Super Admin
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_3.png)
 
 Configure Group Membership Rules
