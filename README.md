@@ -109,9 +109,9 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 ---
 
 ## 1. **Creating Users in the Admin Console**
-
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Add_Users.png)
--  Assigning Super Admin Role to a User
+
+Assigning Super Admin Role to a User
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin.png)
 
 -  Configure Group Membership Rules
