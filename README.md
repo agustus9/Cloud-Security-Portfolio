@@ -45,37 +45,37 @@ Cloud Security Domains
 ---
 ## Domain 1: Cloud Concepts, Architecture, and Design ![Badge](https://img.shields.io/badge/Cloud%20Concepts-Architecture-brightblue?style=for-the-badge&logo=cloud)
 
-Understanding the fundamental principles of cloud computing, including deployment models (public, private, hybrid) and architectural frameworks. Focus on designing scalable, resilient, and secure cloud solutions that meet organizational needs. Emphasizes best practices in cloud architecture, service models, and designing for high availability and disaster recovery.
+This domain covers the foundational principles of cloud computing security, including deployment models (public, private, hybrid) and service models (IaaS, PaaS, SaaS). It emphasizes designing secure, scalable, and resilient cloud architectures that incorporate best practices such as network segmentation, secure multi-tenancy, and disaster recovery planning. Participants evaluate reference architectures and security design patterns to embed security controls into cloud solutions from the start, ensuring protection against threats and vulnerabilities.
 
 ---
 
 ## Domain 2: Cloud Data Security ![Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
 
-Exploring methods to protect data throughout its lifecycle, such as encryption, data masking, access controls, and privacy techniques. Emphasis on securing data at rest, in transit, and during processing. Covers data classification, data loss prevention (DLP), and implementing data security policies aligned with compliance standards.
+Focuses on securing data in cloud environments throughout its lifecycle—at rest, in transit, and during processing. Techniques include cloud-specific encryption solutions (e.g., AWS KMS, Azure Key Vault), data masking, tokenization, and access control policies using cloud IAM. The domain also covers implementing Data Loss Prevention (DLP) tools integrated with cloud services, data classification frameworks, and privacy compliance (GDPR, HIPAA) to ensure proper data governance and protection in cloud platforms.
 
 ---
 
 ## Domain 3: Cloud Platform and Infrastructure Security ![Badge](https://img.shields.io/badge/Platform%20&%20Infra-Security-orange?style=for-the-badge&logo=shield)
 
-Securing virtualized environments, cloud networks, and platform components. Applying design patterns, access controls, and control strategies to safeguard infrastructure from threats and vulnerabilities. Includes securing compute instances, containers, network configurations, and identity management within cloud environments.
+Centers on securing cloud infrastructure components such as virtual machines, containers, serverless functions, and networking. Participants learn to implement cloud-native security controls like firewalls, security groups, and identity federation (e.g., AWS Cognito, Azure AD). The focus includes securing infrastructure-as-code (IaC) templates, managing vulnerabilities through automated patching, and employing cloud-specific threat detection tools like AWS GuardDuty, Azure Security Center, and Google Cloud Security Command Center to monitor for threats and vulnerabilities.
 
 ---
 
 ## Domain 4: Cloud Application Security ![Badge](https://img.shields.io/badge/Application-Dev-red?style=for-the-badge&logo=code)
 
-Implementing secure development practices, conducting application testing, and ensuring software assurance in cloud applications. Focus on minimizing vulnerabilities through secure coding, identity and access management, and secure deployment pipelines. Includes understanding common attack vectors and mitigation techniques.
+Addresses securing cloud-native applications throughout their development lifecycle. Topics include secure coding practices, static and dynamic application security testing (SAST/DAST), and integrating security into CI/CD pipelines using tools like Jenkins, Azure DevOps, or GitLab. The domain emphasizes protecting APIs and microservices via OAuth, API gateways, and IAM policies, as well as defending against common cloud application threats such as injection, XSS, and insecure configurations.
 
 ---
 
 ## Domain 5: Cloud Security Operations ![Badge](https://img.shields.io/badge/Operations-Monitoring-yellow?style=for-the-badge&logo=eye)
 
-Mastering tools and processes for continuous monitoring, incident detection, response, and operational resilience. Emphasizes maintaining a strong security posture in dynamic cloud environments through log management, threat intelligence, automation, and incident response planning.
+Focuses on continuous security monitoring and incident response tailored for cloud environments. Participants implement and manage cloud-native SIEM solutions like Azure Sentinel, AWS Security Hub, or Google Chronicle, alongside IDS/IPS tools like Snort or Suricata. They learn to configure cloud monitoring services (AWS CloudWatch, Azure Monitor, Google Cloud Operations Suite), set up automated alerting, and utilize threat intelligence feeds and SOAR platforms to detect, analyze, and respond to security incidents efficiently. Emphasis is placed on maintaining operational resilience and automating response workflows in a dynamic cloud landscape.
 
 ---
 
 ## Domain 6: Legal, Risk, and Compliance![Badge](https://img.shields.io/badge/Legal-Risk-green?style=for-the-badge&logo=gavel)
 
-Understanding relevant laws, regulations, and frameworks governing cloud security, such as GDPR, HIPAA, and ISO standards. Learning risk management techniques, including risk assessment, mitigation, and audit processes, to ensure compliance and mitigate legal and operational risks.
+Covers the regulatory frameworks governing cloud security, such as GDPR, HIPAA, PCI DSS, ISO/IEC 27001, and FedRAMP. It explains the specific security controls, data handling requirements, and audit procedures mandated by each regulation. Participants learn to perform risk assessments aligned with NIST SP 800-30, conduct cloud-specific audits, and develop compliance strategies that incorporate cloud security controls. This ensures organizations meet legal obligations, protect sensitive data, and maintain audit readiness in cloud environments.
 
 ---
 
@@ -143,7 +143,10 @@ Configure Group Membership Rules
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules3.png)
 
 4) Add Rule
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules4.png) 
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules4.png)
+
+Add and configure a SWA Application 
+---
 
 Configure Salesforce application with SAML in Okta Admin Portal 
 
