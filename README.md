@@ -160,8 +160,11 @@ Configure Salesforce application with SAML in Okta Admin Portal
 5) Navigate to Single Sign-on Settings in Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal.png)
 
-6) Click New for SAML Single Sign-On Settings and fill in the required fields(Issuer, Identity Provider Certificate, Identity Provider Login URL, Custom Logout URL, and Entity ID
+6) Click New for SAML Single Sign-On Settings and fill in the required fields(Issuer, Identity Provider Certificate, Identity Provider Login URL, Custom Logout URL, and Entity ID)
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal2.png)
+
+7) Click save and check settings
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal3.png)
 
 Configure SP-Initiated SAML between Salesforce and Okta
 ---
