@@ -158,23 +158,30 @@ Configure Salesforce application with SAML in Okta Admin Portal
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal4.png)
 
 Configure SP-Initiated SAML between Salesforce and Okta
+---
 
 LCM: Configure Salesforce for Life Cycle Management
+---
 
 Active Directory: User Import into Okta
+---
 
 SSO: Inbound SAML - Okta Org 1 Configuration
+---
 
 SSO: Inbound SAML - Federation Test
+---
 
 Multi-Factor Authentication (MFA) Policy
+---
 
 Global Authentication Policy in Action
+---
 
- Creating an Okta API key
+Creating an Okta API key
+---
 
 Setup: Get the Authorization Server & Token Endpoint URLs
-
 ---
 
 ## ☁️ Cloud Provider Native IAM Tools
