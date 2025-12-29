@@ -132,7 +132,6 @@ Last
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_3.png)
 
 Configure Group Membership Rules
-
 ---
 1) Add people
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules.png)
