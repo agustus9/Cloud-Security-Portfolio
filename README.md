@@ -104,11 +104,7 @@ Understanding relevant laws, regulations, and frameworks governing cloud securit
 
 ---
 
-# 🛡️ Establishing IAM
-
----
-
-## 1. **OnBoarding**
+## **Okta Labs**
 Creating Users in the Admin Console
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Add_Users.png)
 
@@ -119,73 +115,27 @@ Assigning Super Admin Role to a User cont...
 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_2.png)
 
--  Configure Group Membership Rules
+Configure Group Membership Rules
 
----
+Configure Salesforce application with SAML in Okta Admin Portal
 
-## 2. **Define User Roles and Groups**
-- Categorize users based on responsibilities (e.g., **Admin**, **Developer**, **Auditor**).
-- Create groups corresponding to these roles for easier management.
+Configure SP-Initiated SAML between Salesforce and Okta
 
----
+LCM: Configure Salesforce for Life Cycle Management
 
-## 3. **Determine Access Requirements**
-- Identify the permissions each group needs.
-- **Apply the principle of least privilege** — users should only have permissions necessary for their tasks.
+Active Directory: User Import into Okta
 
----
+SSO: Inbound SAML - Okta Org 1 Configuration
 
-## 4. **Create IAM Policies**
-- Write policies that specify **allowed actions**, **resources**, and **conditions**.
-- Use predefined templates or customize policies as needed.
+SSO: Inbound SAML - Federation Test
 
----
+Multi-Factor Authentication (MFA) Policy
 
-## 5. **Assign Users to Roles and Policies**
-- Add users to groups or assign individual policies.
-- **Regularly review and update** these assignments for relevance.
+Global Authentication Policy in Action
 
----
+ Creating an Okta API key
 
-## 6. **Implement Multi-Factor Authentication (MFA)**
-- Enforce MFA for all users to add an extra layer of security.
-
----
-
-## 7. **Monitor and Audit Access**
-- Enable logging of access and actions.
-- **Regularly review logs and permissions** for anomalies or unnecessary privileges.
-
----
-
-## 8. **Review and Update Regularly**
-- Conduct periodic reviews of roles, permissions, and policies.
-- **Adjust policies** as organizational needs evolve.
-
----
-
----
-
-## 5. **Assign Users to Roles and Policies**
-- Add users to groups or assign individual policies.
-- **Regularly review and update** these assignments.
-
----
-
-## 6. **Implement Multi-Factor Authentication (MFA)**
-- Enforce MFA for all users to add an extra layer of security.
-
----
-
-## 7. **Monitor and Audit Access**
-- Enable logging of access and actions.
-- **Regularly review logs and permissions** for anomalies or unnecessary privileges.
-
----
-
-## 8. **Review and Update Regularly**
-- Conduct periodic reviews of roles, permissions, and policies.
-- **Adjust policies** as organizational needs evolve.
+Setup: Get the Authorization Server & Token Endpoint URLs
 
 ---
 
