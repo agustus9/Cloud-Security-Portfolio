@@ -168,6 +168,11 @@ Configure Salesforce application with SAML in Okta Admin Portal
 
 Configure SP-Initiated SAML between Salesforce and Okta
 ---
+1) Search for Domain Management in Quick Search
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta.png)
+
+Configure Salesforce Provisioning in Okta
+---
 
 LCM: Configure Salesforce for Life Cycle Management
 ---
