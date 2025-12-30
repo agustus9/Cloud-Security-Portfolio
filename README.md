@@ -145,6 +145,8 @@ Configure Group Membership Rules
 
 Configure Salesforce application with SAML in Okta Admin Portal 
 ---
+How to Configure SAML 2.0 for Salesforce: https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-in-Salesforce.html?baseAdminUrl=https://integrator-1547272-admin.okta.com&app=salesforce&instanceId=0oayqcdc94tPUUySa697
+
 1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
 
