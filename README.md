@@ -171,6 +171,9 @@ Configure SP-Initiated SAML between Salesforce and Okta
 1) Search for Domain Management in Quick Search
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta.png)
 
+2) Click edit for My Domain Details and check domain availability, then click save
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta2.png)
+
 Configure Salesforce Provisioning in Okta
 ---
 
