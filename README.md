@@ -145,7 +145,7 @@ Configure Group Membership Rules
 
 Configure Salesforce application with SAML in Okta Admin Portal 
 ---
-***How to Configure SAML 2.0 for Salesforce: https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-in-Salesforce.html
+---How to Configure SAML 2.0 for Salesforce: https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-in-Salesforce.html
 
 ---
 
