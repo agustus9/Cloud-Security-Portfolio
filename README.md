@@ -217,6 +217,12 @@ In this lab, participants learned how to set up Service Provider (SP)-initiated 
 2) Click edit for My Domain Details and check domain availability, then click save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta2.png)
 
+3) Copy the Domain Name, then paste it into the browser
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta3.png)
+
+4) Single Sign-on into Salesforce
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
+
 ## **Configure Salesforce Provisioning in Okta**
 In this lab, participants learned how to enable and configure provisioning between Okta and Salesforce to automate user lifecycle management. The exercise involved setting up provisioning settings within the Salesforce application in Okta, including enabling user creation, updates, and deactivation. Participants explored how to synchronize user data, assign appropriate roles, and manage user access dynamically. This process enhances operational efficiency, ensures accurate and consistent user information, and maintains security by automating account provisioning and deprovisioning across the integrated systems.
 
