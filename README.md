@@ -274,7 +274,7 @@ In this lab, participants learned how to implement and manage the entire user li
 7) LCM: Deprovision Salesforce Users/ Click x sign next to the user's name to Unassign User
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management6.png)
 
-8) Lastly, view the logs to verify removal for Fisto Asajj
+8) Lastly, view the logs to verify deprovisioning for Fisto Asajj
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management7.png)
 ---
 
