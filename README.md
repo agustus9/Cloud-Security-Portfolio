@@ -218,12 +218,12 @@ In this lab, participants learned how to set up Service Provider (SP)-initiated 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta2.png)
 
 3) Deploy New Domain (oktafundamentals7-dev-ed)
-4) ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
 
-5) Copy the Domain Name, then paste it into the browser
+4) Copy the Domain Name, then paste it into the browser
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta3.png)
 
-4) Single Sign-on into Salesforce
+5) Single Sign-on into Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
 
 ## **Configure Salesforce Provisioning in Okta**
