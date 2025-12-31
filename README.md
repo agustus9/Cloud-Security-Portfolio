@@ -232,7 +232,7 @@ In this lab, participants learned how to enable and configure provisioning betwe
 ---
 
 1) Go to Salesforce and switch to Lightning Experience view
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta.png.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta.png)
 
 ## **LCM: Configure Salesforce for Life Cycle Management**
 In this lab, participants learned how to implement and manage the entire user lifecycle in Salesforce using Okta’s lifecycle management capabilities. The exercise involved configuring automated workflows for user onboarding, updates, and offboarding to ensure that user access is consistently aligned with their current role and status. Participants set up policies for automatic account provisioning, deactivation, and synchronization, enabling secure and efficient management of Salesforce user accounts throughout their employment lifecycle. This process helps organizations reduce manual effort, minimize security risks, and ensure compliance through automated lifecycle workflows.
