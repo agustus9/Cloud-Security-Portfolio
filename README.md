@@ -211,6 +211,10 @@ In this lab, participants learned how to set up Service Provider (SP)-initiated 
 
 ---
 
+Okta Labs Guide:  ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Okta Labs.pdf
+
+---
+
 1) Search for Domain Management in Quick Search
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta.png)
 
@@ -231,8 +235,14 @@ In this lab, participants learned how to enable and configure provisioning betwe
 
 ---
 
-1) Go to Salesforce and switch to Lightning Experience view
+1) Go to Salesforce and switch to Lightning Experience view and search for App Manager
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta.png)
+
+2) Click on New External Client App
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta2.png)
+
+4) Fill Basic Information
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta3.png)
 
 ## **LCM: Configure Salesforce for Life Cycle Management**
 In this lab, participants learned how to implement and manage the entire user lifecycle in Salesforce using Okta’s lifecycle management capabilities. The exercise involved configuring automated workflows for user onboarding, updates, and offboarding to ensure that user access is consistently aligned with their current role and status. Participants set up policies for automatic account provisioning, deactivation, and synchronization, enabling secure and efficient management of Salesforce user accounts throughout their employment lifecycle. This process helps organizations reduce manual effort, minimize security risks, and ensure compliance through automated lifecycle workflows.
