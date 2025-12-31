@@ -247,7 +247,7 @@ Okta Labs Guide: https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-P
 5) Copy Consumer Details
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta4.png)
 
-6) Log ack into Okta
+6) Log ack into Okta and enable API integration. Enter the OAuth Consumer Key and the OAuth Consumer Secret, then click save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta5.png)
 
 ## **LCM: Configure Salesforce for Life Cycle Management**
