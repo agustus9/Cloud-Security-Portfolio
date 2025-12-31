@@ -277,7 +277,7 @@ In this lab, participants learned how to implement and manage the entire user li
 8) Lastly, view the logs to verify deprovisioning for Fisto Asajj
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management7.png)
 
-User is no longer active in Salesforce
+9) User is no longer active in Salesforce
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management8.png)
 
 ---
