@@ -261,6 +261,9 @@ In this lab, participants learned how to implement and manage the entire user li
 
 2) Assign Users
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management2.png)
+
+3) Go back to Salesforce and click on Manage Users and search for the user account created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management3.png)
 ---
 
 ## **Active Directory: User Import into Okta**
