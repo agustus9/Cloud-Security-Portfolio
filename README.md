@@ -211,7 +211,7 @@ In this lab, participants learned how to set up Service Provider (SP)-initiated 
 
 ---
 
-Okta Labs Guide:  ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Okta Labs.pdf
+Okta Labs Guide:  ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/Okta Labs.pdf)
 
 ---
 
