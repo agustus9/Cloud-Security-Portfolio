@@ -256,6 +256,11 @@ Okta Labs Guide: https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-P
 ## **LCM: Configure Salesforce for Life Cycle Management**
 In this lab, participants learned how to implement and manage the entire user lifecycle in Salesforce using Okta’s lifecycle management capabilities. The exercise involved configuring automated workflows for user onboarding, updates, and offboarding to ensure that user access is consistently aligned with their current role and status. Participants set up policies for automatic account provisioning, deactivation, and synchronization, enabling secure and efficient management of Salesforce user accounts throughout their employment lifecycle. This process helps organizations reduce manual effort, minimize security risks, and ensure compliance through automated lifecycle workflows.
 
+1) Click edit, then enable Create Users, Update User Attributes, and Deactivate Users
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management.png)
+
+2) Assign Users
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management2.png)
 ---
 
 ## **Active Directory: User Import into Okta**
