@@ -154,7 +154,9 @@ Creating Group Membership Rules
 In this lab, participants learned how to set up Single Sign-On (SSO) for Salesforce using SAML 2.0 within the Okta Admin Portal. The process involved integrating Salesforce as a SAML application, configuring the sign-on options, and customizing the user identification format with expression language. Participants also configured Salesforce’s Single Sign-On settings, including issuer, identity provider certificate, and login URLs. This hands-on exercise demonstrated how to establish a secure and seamless authentication experience for users, enabling centralized access control and improved security through SAML-based federation.
 
 ---
+
    How to Configure SAML 2.0 for Salesforce: https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-in-Salesforce.html
+   
 ---
 
 1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
