@@ -246,7 +246,7 @@ In this step, participants learned how to locate the essential OAuth 2.0 endpoin
 ## 🛠️ Third-Party IAM Solutions
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
 - **SailPoint**: Built-in identity and access management features within the Salesforce ecosystem, enabling secure user access and federation.
-- **Saviynt**Identity governance platform for managing access and compliance across hybrid and multi-cloud environments.
+- **Saviynt**: Identity governance platform for managing access and compliance across hybrid and multi-cloud environments.
 - **Ping Identity**: Advanced authentication and access management supporting multi-factor authentication and zero-trust security.
 - **Auth0**: Developer-friendly identity platform with support for various authentication methods and custom rules.
   
