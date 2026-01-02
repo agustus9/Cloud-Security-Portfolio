@@ -300,6 +300,9 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 5) Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication6.png)
 
+6) Blocklisted Countries is now Active
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication7.png)
+
 ---
 
 ## **Global Authentication Policy in Action**
