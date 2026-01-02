@@ -334,6 +334,54 @@ In this lab, participants explored how to implement and enforce a comprehensive 
 
 ---
 
+# Cloud Security & IAM Portfolio
+
+Welcome to my Cloud Security and Identity & Access Management (IAM) portfolio. This repository documents hands-on labs and exercises based on the **SC-300: Microsoft Identity and Access Administrator** course by John Christopher.
+
+---
+
+## 📚 Microsoft Identity and Access Labs
+
+### 🚀 Lab 1: Setting Up Azure AD
+- **Objective:** Create and configure an Azure Active Directory tenant.
+- **Steps:**
+  1. Sign in to the [Azure Portal](https://portal.azure.com/).
+  2. Create a new Azure AD tenant.
+  3. Register a new application.
+- **Resources:** [Azure AD Documentation](https://docs.microsoft.com/en-us/azure/active-directory/)
+
+---
+
+### 🔑 Lab 2: Configuring Role-Based Access Control (RBAC)
+- **Objective:** Assign roles to users and groups for access management.
+- **Steps:**
+  1. Create security groups.
+  2. Assign roles such as User Administrator or Global Administrator.
+  3. Test access permissions.
+- **Scripts/Commands:** *(Include PowerShell or CLI commands if applicable)*
+
+---
+
+### 🔒 Lab 3: Implementing Conditional Access Policies
+- **Objective:** Restrict access using Conditional Access.
+- **Steps:**
+  1. Create a new Conditional Access policy.
+  2. Configure conditions like location, device, or risk.
+  3. Assign policies to specific users/groups.
+- **Resources:** [Microsoft Conditional Access Documentation](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+
+---
+
+### ✅ Lab 4: Managing Multi-Factor Authentication (MFA)
+- **Objective:** Enforce MFA for selected users.
+- **Steps:**
+  1. Enable MFA in Azure AD.
+  2. Require MFA for specific groups.
+  3. Test login prompts with MFA.
+- **Resources:** [Azure MFA Documentation](https://docs.microsoft.com/en-us/azure/active-directory/authenticate-mfa)
+
+---
+
 ## ☁️ Cloud Provider Native IAM Tools
 - **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
 - **Microsoft Entra (Entra ID)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
