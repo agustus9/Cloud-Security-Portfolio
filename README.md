@@ -303,6 +303,21 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 6) Blocklisted Countries is now Active
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication7.png)
 
+7) Set Password Policy. Click on Authenticator
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication8.png)
+
+8) Add Okta Verify
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication9.png)
+
+9) Go to Password Policy, click on Action, then Edit. Add New Password Policy
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication10.png)
+
+10) Add Policy name, Policy description, Add group, and Password age
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication11.png)
+
+11) Add Policy name, Policy description, Add group, and Password age cont..
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication12.png)
+
 ---
 
 ## **Global Authentication Policy in Action**
