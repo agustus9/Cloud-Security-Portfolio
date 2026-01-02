@@ -282,23 +282,23 @@ In this lab, participants learned how to implement and manage the entire user li
 
 ---
 
-## **Active Directory: User Import into Okta**
-In this lab, participants learned how to synchronize user data from Active Directory (AD) into Okta to streamline identity management. The exercise involved setting up an AD integration, configuring import settings, and performing initial user imports. Participants explored how to map AD user attributes to Okta profiles, ensuring accurate and consistent user information across systems. This process enables centralized user management, simplifies onboarding and offboarding, and enhances security by maintaining up-to-date user access based on directory information.
-
----
-
-## **SSO: Inbound SAML - Okta Org 1 Configuration**
-In this lab, participants learned how to configure inbound SAML-based Single Sign-On (SSO) for an organization using Okta. The exercise involved setting up Okta as a Service Provider (SP) to accept SAML assertions from an external Identity Provider (IdP). Participants configured the necessary SAML settings, including entity IDs, login URLs, and certificate exchange, to enable secure authentication flow. This setup allows users to access external applications through Okta’s centralized SSO portal, improving security, user convenience, and access management.
-
----
-
-## **SSO: Inbound SAML - Federation Test**
-In this lab, participants conducted a federation test to verify the correct configuration of inbound SAML SSO. The exercise involved initiating a login request from an external Identity Provider (IdP) to ensure that the SAML assertions are properly received and processed by the service provider (SP). Participants tested the end-to-end authentication flow, validated user attributes, and confirmed successful access to the target application. This testing ensures that the SAML federation setup is secure, functional, and ready for production deployment.
-
----
-
 ## **Multi-Factor Authentication (MFA) Policy**
 In this lab, participants learned how to create and manage MFA policies to enhance the security of user authentication. The exercise involved configuring MFA requirements within an identity management platform, including selecting authentication factors such as SMS, authenticator apps, or hardware tokens. Participants set policies based on user roles, locations, or risk levels to enforce multi-factor authentication for sensitive applications and access scenarios. This process helps organizations strengthen security, reduce the risk of compromised credentials, and ensure compliance with security standards.
+
+1) Create Network Policy. Click on the Security tab, then Network, click on the dropdown "Add Zone", then choose IP Zone
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication.png)
+
+2) Add Zone name, Gateway IPs, then click Save
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication3.png)
+
+3) Next, add Dynamic Zone. Fill in the Zone name and Locations. Then click Save
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication4.png)
+
+Corporate Locations and Corporate Office are Active
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication5.png)
+
+Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication6.png)
 
 ---
 
