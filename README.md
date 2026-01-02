@@ -294,26 +294,16 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 3) Next, add Dynamic Zone. Fill in the Zone name and Locations. Then click Save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication4.png)
 
-Corporate Locations and Corporate Office are Active
+4) Corporate Locations and Corporate Office are Active
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication5.png)
 
-Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
+5) Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication6.png)
 
 ---
 
 ## **Global Authentication Policy in Action**
 In this lab, participants explored how to implement and enforce a comprehensive authentication policy across an organization. The exercise involved configuring global policies that specify authentication requirements, such as multi-factor authentication (MFA), adaptive risk-based authentication, and password policies. Participants observed how these policies apply universally to all users and applications, ensuring consistent security standards. The session demonstrated how to monitor policy enforcement and adjust settings as needed to balance security with user convenience, thereby strengthening overall organizational security posture.
-
----
-
-## **Creating an Okta API key**
-In this lab, participants learned how to generate API keys within the Okta Admin Console to enable secure programmatic access to Okta’s APIs. The exercise involved navigating the API section, creating a new API key, and configuring its permissions to align with organizational security policies. Participants also reviewed best practices for managing and securely storing API keys. This process allows administrators to automate tasks, integrate Okta with other systems, and facilitate secure API-based workflows.
-
----
-
-## **Setup: Get the Authorization Server & Token Endpoint URLs**
-In this step, participants learned how to locate the essential OAuth 2.0 endpoints within the Okta Admin Console. The exercise involved navigating to the Authorization Server settings to retrieve the Authorization Endpoint URL and the Token Endpoint URL. These URLs are crucial for configuring OAuth flows, such as authorization code or client credentials grants, enabling secure token exchanges between applications and Okta. Properly obtaining and configuring these endpoints ensures seamless integration and secure authentication workflows.
 
 ---
 
