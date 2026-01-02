@@ -324,6 +324,9 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 13) Sales-Okta Password Policy is now Active
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication14.png)
 
+14) Sales-Okta Password Policy is now Active cont...
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication15.png)
+
 ---
 
 ## **Global Authentication Policy in Action**
