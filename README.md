@@ -339,8 +339,17 @@ In this lab, participants explored how to implement and enforce a comprehensive 
 ### 🚀 Lab 1: Configure and manage built-in and custom Microsoft Entra roles
 This lab guides you through configuring and managing Microsoft Entra (Azure AD) roles, including assigning built-in roles to users and creating custom roles tailored to specific administrative needs. You will learn how to assign roles securely, understand role scopes, and customize roles to implement the principle of least privilege effectively in your environment.
 
-1) Add a new Custom Role. Add Name, then click next
+1) Add a new Custom Role. Add Name, then click next twice, then create
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in.png).
+
+2) Add permission to Custom Role. Then click next
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in2.png).
+
+3) Click Create
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in3.png).
+
+4) Custom Role Created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in4.png).
 
 ---
 
