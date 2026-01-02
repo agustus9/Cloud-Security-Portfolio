@@ -334,12 +334,6 @@ In this lab, participants explored how to implement and enforce a comprehensive 
 
 ---
 
-# Cloud Security & IAM Portfolio
-
-Welcome to my Cloud Security and Identity & Access Management (IAM) portfolio. This repository documents hands-on labs and exercises based on the **SC-300: Microsoft Identity and Access Administrator** course by John Christopher.
-
----
-
 ## 📚 Microsoft Identity and Access Labs
 
 ### 🚀 Lab 1: Setting Up Azure AD
