@@ -353,7 +353,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### 🔑 Lab 2: Configuring Role-Based Access Control (RBAC)
+### 🔑 Lab 2: Create, configure, and manage groups in the Azure portal
 - **Objective:** Assign roles to users and groups for access management.
 - **Steps:**
   1. Create security groups.
@@ -363,7 +363,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### 🔒 Lab 3: Implementing Conditional Access Policies
+### 🔒 Lab 3: Using PowerShell to manage users, groups and bulk operations
 - **Objective:** Restrict access using Conditional Access.
 - **Steps:**
   1. Create a new Conditional Access policy.
@@ -373,7 +373,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### ✅ Lab 4: Managing Multi-Factor Authentication (MFA)
+### ✅ Lab 4: Configure external identity providers, including protocols such as SAML & WS-Fed
 - **Objective:** Enforce MFA for selected users.
 - **Steps:**
   1. Enable MFA in Azure AD.
@@ -381,9 +381,25 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
   3. Test login prompts with MFA.
 - **Resources:** [Azure MFA Documentation](https://docs.microsoft.com/en-us/azure/active-directory/authenticate-mfa)
 
+  ### ✅ Lab 6: Implement Conditional Access policy assignments and controls
+
+   ### ✅ Lab 7: Create a Conditional Access policy from a template
+
+   ### ✅ Lab 8: Configure Azure Key Vault role-based access control (RBAC) and access policies
+
+  ### ✅ Lab 9: Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
+
+  ### ✅ Lab 10: Create managed identities
+
+  ### ✅ Lab 11: Assign a managed identity to an Azure resource
+
+  ### ✅ Lab 12: Assign, classify, and manage users, groups, and app roles for enterprise apps
+
+  ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
+
 ---
 
-## ☁️ Cloud Provider Native IAM Tools
+## ☁️ Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
 - **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
 - **Microsoft Entra (Entra ID)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
 - **Google Cloud IAM**: Google's IAM service for managing access and permissions across Google Cloud resources.
