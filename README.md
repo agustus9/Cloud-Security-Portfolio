@@ -319,7 +319,7 @@ In this step, participants learned how to locate the essential OAuth 2.0 endpoin
 
 ## ☁️ Cloud Provider Native IAM Tools
 - **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
-- **Azure Active Directory (Azure AD)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
+- **Microsoft Entra (Entra ID)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
 - **Google Cloud IAM**: Google's IAM service for managing access and permissions across Google Cloud resources.
 
 ---
