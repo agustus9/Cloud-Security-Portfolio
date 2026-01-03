@@ -332,6 +332,15 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 ## **Global Authentication Policy in Action**
 In this lab, participants explored how to implement and enforce a comprehensive authentication policy across an organization. The exercise involved configuring global policies that specify authentication requirements, such as multi-factor authentication (MFA), adaptive risk-based authentication, and password policies. Participants observed how these policies apply universally to all users and applications, ensuring consistent security standards. The session demonstrated how to monitor policy enforcement and adjust settings as needed to balance security with user convenience, thereby strengthening overall organizational security posture.
 
+1) Navigate to Global Authentication Policy
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy.png)
+
+2) Click Add Policy. Fill Policy name, Policy description, and Assign to groups. Then click Create Policy and Add Rule
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy2.png)
+
+3) Corporate Policy Rule created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy3.png)
+
 ---
 
 ## 📚 Microsoft Identity and Access Labs
@@ -363,7 +372,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### 🔒 Lab 3: Using PowerShell to manage users, groups and bulk operations
+### 🔒 Lab 3: Create, configure, and manage groups in the Microsoft 365 admin center
 - **Objective:** Restrict access using Conditional Access.
 - **Steps:**
   1. Create a new Conditional Access policy.
