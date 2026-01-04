@@ -361,6 +361,25 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in4.png).
 
 ---
+### 🔑 Lab 2: Setting up a domain controller
+
+1) Click Manage, then Add Roles and Features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller.png).
+
+2) Choose Role-based or feature-based installation
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller2.png).
+
+3) Select a server from the server pool
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller3.png).
+
+4) Click next, then Add Features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller4.png).
+
+5) Features installing
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller5.png).
+
+6) Click on Promote this server to a domain
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller6.png).
 
 ### 🔑 Lab 2: Create, configure, and manage groups in the Azure portal
 - **Objective:** Assign roles to users and groups for access management.
