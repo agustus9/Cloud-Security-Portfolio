@@ -396,6 +396,9 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 9) Verify Prerequisites
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller11.png).
 
+9) AD Domain Controller Installed 
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller12.png).
+
 ### 🔑 Lab 2: Create, configure, and manage groups in the Azure portal
 - **Objective:** Assign roles to users and groups for access management.
 - **Steps:**
