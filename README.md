@@ -310,7 +310,7 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication9.png)
 
 9) Go to Password Policy, click on Action, then Edit. Add New Password Policy
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authenticationn10.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication10.png)
 
 10) Add Policy name, Policy description, Add group, and Password age
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication11.png)
