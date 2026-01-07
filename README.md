@@ -316,7 +316,7 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication11.png)
 
 11) Add Policy name, Policy description, Add group, Password, then Create Policy age cont..
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authenticationn12.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication12.png)
 
 12) Next, select Rule name, User's IP is, and Recovery authenticators, then Create Rule
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication13.png)
