@@ -397,13 +397,10 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/setting_up_a_domain_controller12.png).
 
 ### 🔑 Lab 2: Configure and manage built-in and custom Microsoft Entra roles
-- **Objective:** Assign roles to users and groups for access management.
-- **Steps:**
-  1. Create security groups.
-  2. Assign roles such as User Administrator or Global Administrator.
-  3. Test access permissions.
-- **Scripts/Commands:** *(Include PowerShell or CLI commands if applicable)*
+This lab walks you through the process of configuring and managing Microsoft Entra (Azure AD) roles. You will learn how to assign and modify built-in roles to meet organizational needs, as well as create and customize custom roles for specific administrative tasks. This exercise emphasizes the importance of role-based access control (RBAC) to enforce the principle of least privilege and enhance security within your Azure environment.
 
+1) Select New Custom Role
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles.png).
 ---
 
 ### 🔒 Lab 3: Configure and manage administrative units
