@@ -150,12 +150,12 @@ Assigning Super Admin Role to a User cont...
 Next
 
 5) Save Changes
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admi_2.png)
 ---
 Last
 
 6) User Elevated to Super Admin
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/administrator_assignment_by_admin_3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admi_3.png)
 
 ## **Configure Group Membership Rules**
 In this lab, participants learned how to automate user group management within an identity platform by configuring dynamic group membership rules. The exercise involved creating rules based on user attributes, such as job title or department, to automatically assign users to specific groups. This process streamlines access management, reduces manual administrative effort, and ensures consistent application of security policies. Through hands-on practice, participants gained experience in customizing rules to enforce organizational access controls effectively.
@@ -165,16 +165,16 @@ In this lab, participants learned how to automate user group management within a
 Creating Group Membership Rules
 ---
 1) Add people
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_group_membership_rules.png)
 
 2) Change Title to Manager
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_group_membership_rules2.png)
 
 3) Go to Groups, then add Rules
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_group_membership_rules3.png)
 
 4) Add Rule
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_group_membership_rules4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_group_membership_rules4.png)
 
 ## **Configure Salesforce application with SAML in Okta Admin Portal**
 In this lab, participants learned how to set up Single Sign-On (SSO) for Salesforce using SAML 2.0 within the Okta Admin Portal. The process involved integrating Salesforce as a SAML application, configuring the sign-on options, and customizing the user identification format with expression language. Participants also configured Salesforce’s Single Sign-On settings, including issuer, identity provider certificate, and login URLs. This hands-on exercise demonstrated how to establish a secure and seamless authentication experience for users, enabling centralized access control and improved security through SAML-based federation.
@@ -186,25 +186,25 @@ In this lab, participants learned how to set up Single Sign-On (SSO) for Salesfo
 ---
 
 1) Go to Applications, then click on Browse App Integration Catalog and search Salesforce
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_application_with_SAML_in_okta_admin_portal.png)
 
 2) Click on Salesforce to get to General Settings, then click next
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_salesforce_application_with_SAML_in_okta_admin_portal2.png)
 
 3) At the Sign-On Options tab, select SAML 2.0 and for Application username format, select Custom
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_salesforce_application_with_SAML_in_okta_admin_portal3.png)
 
 4) Note the Expression Language Reference, then click Done
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_application_with_SAML_in_okta_admin_portal4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_salesforce_application_with_SAML_in_okta_admin_portal4.png)
 
 5) Navigate to Single Sign-on Settings in Salesforce
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_SSO_settings_in_salesforce_portal.png)
 
 6) Click New for SAML Single Sign-On Settings and fill in the required fields(Issuer, Identity Provider Certificate, Identity Provider Login URL, Custom Logout URL, and Entity ID)
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_SSO_settings_in_salesforce_portal2.png)
 
 7) Click save and check settings
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_SSO_settings_in_salesforce_portal3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_SSO_settings_in_salesforce_portal3.png)
 
 ## **Configure SP-Initiated SAML between Salesforce and Okta**
 In this lab, participants learned how to set up Service Provider (SP)-initiated SAML authentication to enable seamless single sign-on between Salesforce and Okta. The exercise involved configuring domain management within Salesforce, ensuring that the custom domain is available and properly set up for federated login. This configuration allows users to access Salesforce through Okta’s SSO portal, providing a unified and secure authentication experience. The hands-on process demonstrated how to establish a trust relationship between Salesforce and Okta, ensuring secure, streamlined access to organizational resources.
@@ -212,19 +212,19 @@ In this lab, participants learned how to set up Service Provider (SP)-initiated 
 ---
 
 1) Search for Domain Management in Quick Search
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_SP-Initiated_SAML_between_salesforce_and_okta.png)
 
 2) Click edit for My Domain Details and check domain availability, then click save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_SP-Initiated_SAML_between_salesforce_and_okta2.png)
 
 3) Deploy New Domain (oktafundamentals7-dev-ed)
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
 
 4) Copy the Domain Name, then paste it into the browser
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_SP-Initiated_SAML_between_salesforce_and_okta3.png)
 
 5) Single Sign-on into Salesforce
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_SP-Initiated_SAML_between_salesforce_and_okta4.png)
 
 ## **Configure Salesforce Provisioning in Okta**
 In this lab, participants learned how to enable and configure provisioning between Okta and Salesforce to automate user lifecycle management. The exercise involved setting up provisioning settings within the Salesforce application in Okta, including enabling user creation, updates, and deactivation. Participants explored how to synchronize user data, assign appropriate roles, and manage user access dynamically. This process enhances operational efficiency, ensures accurate and consistent user information, and maintains security by automating account provisioning and deprovisioning across the integrated systems.
@@ -236,49 +236,49 @@ Okta Labs Guide: https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-P
 ---
 
 1) Go to Salesforce and switch to Lightning Experience view and search for App Manager
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta.png)
 
 2) Click on New External Client App
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta2.png)
 
 4) Fill Basic Information
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta3.png)
 
 5) Copy Consumer Details
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta4.png)
 
 6) Log ack into Okta and enable API integration. Enter the OAuth Consumer Key and the OAuth Consumer Secret, click Authenticate with Salesforce.com, then click Save.
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta6.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta6.png)
 
 7) Integration complete
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_salesforce_provisioning_in_okta7.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_salesforce_provisioning_in_okta7.png)
 
 ## **LCM: Configure Salesforce for Life Cycle Management**
 In this lab, participants learned how to implement and manage the entire user lifecycle in Salesforce using Okta’s lifecycle management capabilities. The exercise involved configuring automated workflows for user onboarding, updates, and offboarding to ensure that user access is consistently aligned with their current role and status. Participants set up policies for automatic account provisioning, deactivation, and synchronization, enabling secure and efficient management of Salesforce user accounts throughout their employment lifecycle. This process helps organizations reduce manual effort, minimize security risks, and ensure compliance through automated lifecycle workflows.
 
 1) Click edit, then enable Create Users, Update User Attributes, and Deactivate Users
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management.png)
 
 2) Assign Users
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management2.png)
 
 3) User Created
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management4.png)
 
 5) Go back to Salesforce and click on Manage Users and search for the user account created
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management3.png)
 
 6) LCM: Looking at System Logs and checking for errors
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management5.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management5.png)
 
 7) LCM: Deprovision Salesforce Users/ Click x sign next to the user's name to Unassign User
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management6.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/LCM_configure_salesforce_for_life_cycle_management6.png)
 
 8) Lastly, view the logs to verify deprovisioning for Fisto Asajj
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management7.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/LCM_configure_salesforce_for_life_cycle_management7.png)
 
 9) User is no longer active in Salesforce
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/LCM_configure_salesforce_for_life_cycle_management8.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/LCM_configure_salesforce_for_life_cycle_management8.png)
 
 ---
 
@@ -286,46 +286,46 @@ In this lab, participants learned how to implement and manage the entire user li
 In this lab, participants learned how to create and manage MFA policies to enhance the security of user authentication. The exercise involved configuring MFA requirements within an identity management platform, including selecting authentication factors such as SMS, authenticator apps, or hardware tokens. Participants set policies based on user roles, locations, or risk levels to enforce multi-factor authentication for sensitive applications and access scenarios. This process helps organizations strengthen security, reduce the risk of compromised credentials, and ensure compliance with security standards.
 
 1) Create Network Policy. Click on the Security tab, then Network, click on the dropdown "Add Zone", then choose IP Zone
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/multi_factor_authentication.png)
 
 2) Add Zone name, Gateway IPs, then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication3.png)
 
 3) Next, add Dynamic Zone. Fill in the Zone name and Locations. Then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication4.png)
 
 4) Corporate Locations and Corporate Office are Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication5.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication5.png)
 
 5) Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication6.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication6.png)
 
 6) Blocklisted Countries is now Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication7.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication7.png)
 
 7) Set Password Policy. Click on Authenticator
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication8.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication8.png)
 
 8) Add Okta Verify
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication9.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication9.png)
 
 9) Go to Password Policy, click on Action, then Edit. Add New Password Policy
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication10.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authenticationn10.png)
 
 10) Add Policy name, Policy description, Add group, and Password age
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication11.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication11.png)
 
 11) Add Policy name, Policy description, Add group, Password, then Create Policy age cont..
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication12.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication12.png)
 
 12) Next, select Rule name, User's IP is, and Recovery authenticators, then Create Rule
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication13.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication13.png)
 
 13) Sales-Okta Password Policy is now Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication14.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication14.png)
 
 14) Sales-Okta Password Policy is now Active cont...
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication15.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/multi_factor_authentication15.png)
 
 ---
 
@@ -333,13 +333,13 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 In this lab, participants explored how to implement and enforce a comprehensive authentication policy across an organization. The exercise involved configuring global policies that specify authentication requirements, such as multi-factor authentication (MFA), adaptive risk-based authentication, and password policies. Participants observed how these policies apply universally to all users and applications, ensuring consistent security standards. The session demonstrated how to monitor policy enforcement and adjust settings as needed to balance security with user convenience, thereby strengthening overall organizational security posture.
 
 1) Navigate to Global Authentication Policy
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/global_authentication_policy.png)
 
 2) Click Add Policy. Fill Policy name, Policy description, and Assign to groups. Then click Create Policy and Add Rule
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/global_authentication_policy2.png)
 
 3) Corporate Policy Rule created
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/global_authentication_policy3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/global_authentication_policy3.png)
 
 ---
 
@@ -349,7 +349,7 @@ In this lab, participants explored how to implement and enforce a comprehensive 
 This lab guides you through configuring and managing Microsoft Entra (Azure AD) roles, including assigning built-in roles to users and creating custom roles tailored to specific administrative needs. You will learn how to assign roles securely, understand role scopes, and customize roles to implement the principle of least privilege effectively in your environment.
 
 1) Add a new Custom Role. Add Name, then click next twice, then create
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/configure_and_manage_built_in.png).
 
 2) Add permission to Custom Role. Then click next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/configure_and_manage_built_in2.png).
@@ -364,37 +364,37 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 ### 🔑 Lab 2: Setting up a domain controller
 
 1) Click Manage, then Add Roles and Features
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller.png).
 
 2) Choose Role-based or feature-based installation
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller2.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller2.png).
 
 3) Select a server from the server pool
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller3.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller3.png).
 
 4) Click next, then Add Features
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller4.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller4.png).
 
 5) Features installing
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller5.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller5.png).
 
 6) Click on Promote this server to a domain
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller6.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller6.png).
 
 7) Deployment Configuration, click Next
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller7.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller7.png).
 
 8) Fill out Domain Controller Options, then click next
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller9.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller9.png).
 
 9) Enter the NetBIOS Domain name, then click Next twice
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller10.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller10.png).
 
 10) Verify Prerequisites(Check and fix prerequisites errors before proceeding)
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller11.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller11.png).
 
 11) AD Domain Controller Installed 
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller12.png).
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/my-ng-files/setting_up_a_domain_controller12.png).
 
 ### 🔑 Lab 2: Configure and manage built-in and custom Microsoft Entra roles
 - **Objective:** Assign roles to users and groups for access management.
