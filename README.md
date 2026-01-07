@@ -393,7 +393,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 8) Enter the NetBIOS Domain name, then click Next twice
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller10.png).
 
-9) Verify Prerequisites
+9) Verify Prerequisites(Check and fix prerequisites errors before proceding)
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller11.png).
 
 9) AD Domain Controller Installed 
