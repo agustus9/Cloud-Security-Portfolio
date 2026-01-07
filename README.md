@@ -440,6 +440,7 @@ This lab guides you through the process of configuring and managing Administrati
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_administrative_units7.png).
 
 ### ✅ Lab 4: Configure and manage domains in Microsoft Entra ID and Microsoft 365
+This lab covers the process of configuring and managing custom domains within Microsoft Entra ID (Azure AD) and Microsoft 365. You will learn how to add, verify, and troubleshoot domain ownership, set up domain-specific policies, and manage DNS records. This enables seamless integration of your organization’s branded domains, ensuring consistent identity management across Azure AD and Microsoft 365 services.
 
 ---
 
