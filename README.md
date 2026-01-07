@@ -381,22 +381,22 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 6) Click on Promote this server to a domain
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller6.png).
 
-6) Deployment Configuration, click next
+7) Deployment Configuration, click next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller7.png).
 
-7) Deployment Configuration, click Next
+8) Deployment Configuration, click Next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller8.png).
 
-7) Fill out Domain Controller Options, then click next
+9) Fill out Domain Controller Options, then click next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller9.png).
 
-8) Enter the NetBIOS Domain name, then click Next twice
+10) Enter the NetBIOS Domain name, then click Next twice
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller10.png).
 
-9) Verify Prerequisites(Check and fix prerequisites errors before proceeding)
+11) Verify Prerequisites(Check and fix prerequisites errors before proceeding)
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller11.png).
 
-9) AD Domain Controller Installed 
+12) AD Domain Controller Installed 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller12.png).
 
 ### 🔑 Lab 2: Configure and manage built-in and custom Microsoft Entra roles
