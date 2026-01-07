@@ -401,6 +401,18 @@ This lab walks you through the process of configuring and managing Microsoft Ent
 
 1) Select New Custom Role
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles.png).
+
+2) Add name, then click next
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles2.png).
+
+3) Search user, then select permission, then click next
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles3.png).
+
+4) Review + Create
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles4.png).
+
+5) Custom Helpdesk User Properties Tier 1 role successfully created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles5.png).
 ---
 
 ### 🔒 Lab 3: Configure and manage administrative units
