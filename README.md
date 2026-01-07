@@ -399,7 +399,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 9) AD Domain Controller Installed 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller12.png).
 
-### 🔑 Lab 2: Create, configure, and manage groups in the Azure portal
+### 🔑 Lab 2: Configure and manage built-in and custom Microsoft Entra roles
 - **Objective:** Assign roles to users and groups for access management.
 - **Steps:**
   1. Create security groups.
@@ -409,7 +409,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### 🔒 Lab 3: Create, configure, and manage groups in the Microsoft 365 admin center
+### 🔒 Lab 3: Configure and manage administrative units
 - **Objective:** Restrict access using Conditional Access.
 - **Steps:**
   1. Create a new Conditional Access policy.
@@ -419,7 +419,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 
 ---
 
-### ✅ Lab 4: Configure external identity providers, including protocols such as SAML & WS-Fed
+### ✅ Lab 4: Assign, classify, and manage users, groups, and app roles for enterprise apps
 - **Objective:** Enforce MFA for selected users.
 - **Steps:**
   1. Enable MFA in Azure AD.
@@ -427,21 +427,27 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
   3. Test login prompts with MFA.
 - **Resources:** [Azure MFA Documentation](https://docs.microsoft.com/en-us/azure/active-directory/authenticate-mfa)
 
-  ### ✅ Lab 6: Implement Conditional Access policy assignments and controls
+  ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
 
-   ### ✅ Lab 7: Create a Conditional Access policy from a template
+   ### ✅ Lab 7: Create, configure, and manage users
 
-   ### ✅ Lab 8: Configure Azure Key Vault role-based access control (RBAC) and access policies
+   ### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
 
-  ### ✅ Lab 9: Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
+  ### ✅ Lab 7: Create, configure, and manage groups in the Azure portal
 
-  ### ✅ Lab 10: Create managed identities
+  ### ✅ Lab 8: Configure external identity providers, including protocols such as SAML & WS-Fed
 
-  ### ✅ Lab 11: Assign a managed identity to an Azure resource
+  ### ✅ Lab 9: Implement and manage Microsoft Entra Connect Sync with password hash sync
 
-  ### ✅ Lab 12: Assign, classify, and manage users, groups, and app roles for enterprise apps
+  ### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
 
-  ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
+  ### ✅ Lab 11: Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
+  ### ✅ Lab 12: Use Defender for Cloud Apps & create a file policy for detection
+  ### ✅ Lab 13: Create an access request catalog & package for Medical User
+  ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
+  ### ✅ Lab 15: Use Sentinel. Run Failed Login Attempt Query.
+  ### ✅ Lab 16: Azure AD activity by using Log Analytics / Sentinel, Workbooks excluding KQL use
+  ### ✅ Lab 17: Configuring notifications
 
 ---
 
