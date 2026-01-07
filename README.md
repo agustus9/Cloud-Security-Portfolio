@@ -381,7 +381,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 6) Click on Promote this server to a domain
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller6.png).
 
-7) Deployment Configuration, click next
+7) Deployment Configuration, click Next
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/setting_up_a_domain_controller7.png).
 
 8) Deployment Configuration, click Next
