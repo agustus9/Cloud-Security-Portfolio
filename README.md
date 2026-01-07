@@ -289,43 +289,43 @@ In this lab, participants learned how to create and manage MFA policies to enhan
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication.png)
 
 2) Add Zone name, Gateway IPs, then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication3.png)
 
 3) Next, add Dynamic Zone. Fill in the Zone name and Locations. Then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication4.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication4.png)
 
 4) Corporate Locations and Corporate Office are Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication5.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication5.png)
 
 5) Add another Dynamic Zone for Blocklisted. Fill in the Zone name and Locations. Then click Save
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication6.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication6.png)
 
 6) Blocklisted Countries is now Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication7.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication7.png)
 
 7) Set Password Policy. Click on Authenticator
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication8.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication8.png)
 
 8) Add Okta Verify
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication9.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication9.png)
 
 9) Go to Password Policy, click on Action, then Edit. Add New Password Policy
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication10.png)
 
 10) Add Policy name, Policy description, Add group, and Password age
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication11.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication11.png)
 
 11) Add Policy name, Policy description, Add group, Password, then Create Policy age cont..
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication12.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authenticationn12.png)
 
 12) Next, select Rule name, User's IP is, and Recovery authenticators, then Create Rule
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication13.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication13.png)
 
 13) Sales-Okta Password Policy is now Active
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication14.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication14.png)
 
 14) Sales-Okta Password Policy is now Active cont...
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/multi_factor_authentication15.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/multi_factor_authentication15.png)
 
 ---
 
