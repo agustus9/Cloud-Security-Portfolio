@@ -439,11 +439,11 @@ This lab guides you through the process of configuring and managing Administrati
 6) User added to Administrative Unit 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_administrative_units7.png).
 
-
+### ✅ Lab 4: Configure and manage domains in Microsoft Entra ID and Microsoft 365
 
 ---
 
-### ✅ Lab 4: Assign, classify, and manage users, groups, and app roles for enterprise apps
+### ✅ Lab 5: Assign, classify, and manage users, groups, and app roles for enterprise apps
 - **Objective:** Enforce MFA for selected users.
 - **Steps:**
   1. Enable MFA in Azure AD.
