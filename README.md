@@ -416,12 +416,16 @@ This lab walks you through the process of configuring and managing Microsoft Ent
 ---
 
 ### 🔒 Lab 3: Configure and manage administrative units
-- **Objective:** Restrict access using Conditional Access.
-- **Steps:**
-  1. Create a new Conditional Access policy.
-  2. Configure conditions like location, device, or risk.
-  3. Assign policies to specific users/groups.
-- **Resources:** [Microsoft Conditional Access Documentation](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+This lab guides you through the process of configuring and managing Administrative Units within Microsoft Entra (Azure AD). You will learn how to create administrative units to delegate management of specific groups or users, assign roles at the administrative unit level, and enforce scoped administrative permissions. This practice helps in segmenting administrative responsibilities and maintaining a secure, organized management structure in large or complex environments.
+
+1) Create New User
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles.png).
+
+2) Add User principal name, Display name, and password, then click next: properties
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles2.png).
+
+2) Add Info, then click next: assignment
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles3.png).
 
 ---
 
