@@ -150,12 +150,12 @@ Assigning Super Admin Role to a User cont...
 Next
 
 5) Save Changes
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admi_2.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admin_2.png)
 ---
 Last
 
 6) User Elevated to Super Admin
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admi_3.png)
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/administrator_assignment_by_admin_3.png)
 
 ## **Configure Group Membership Rules**
 In this lab, participants learned how to automate user group management within an identity platform by configuring dynamic group membership rules. The exercise involved creating rules based on user attributes, such as job title or department, to automatically assign users to specific groups. This process streamlines access management, reduces manual administrative effort, and ensures consistent application of security policies. Through hands-on practice, participants gained experience in customizing rules to enforce organizational access controls effectively.
