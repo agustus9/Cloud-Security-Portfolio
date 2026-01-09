@@ -471,11 +471,7 @@ This lab covers the process of configuring and managing custom domains within Mi
 
   ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
 
-   ### ✅ Lab 7: Create, configure, and manage users
-
    ### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
-
-  ### ✅ Lab 7: Create, configure, and manage groups in the Azure portal
 
   ### ✅ Lab 8: Configure external identity providers, including protocols such as SAML & WS-Fed
 
@@ -487,7 +483,6 @@ This lab covers the process of configuring and managing custom domains within Mi
   ### ✅ Lab 12: Use Defender for Cloud Apps & create a file policy for detection
   ### ✅ Lab 13: Create an access request catalog & package for Medical User
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
-  ### ✅ Lab 15: Use Sentinel. Run Failed Login Attempt Query.
   ### ✅ Lab 16: Azure AD activity by using Log Analytics / Sentinel, Workbooks excluding KQL use
   ### ✅ Lab 17: Configuring notifications
 
