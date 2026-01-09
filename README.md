@@ -444,6 +444,9 @@ This lab covers the process of configuring and managing custom domains within Mi
 
 1) Add Domain 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_365.png).
+
+2) Enter Domain name 
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_3652.png).
 ---
 
 ### ✅ Lab 5: Assign, classify, and manage users, groups, and app roles for enterprise apps
