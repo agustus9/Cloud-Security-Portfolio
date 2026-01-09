@@ -457,7 +457,7 @@ This lab covers the process of configuring and managing custom domains within Mi
 5) Skip adding DNS records for now, then click continue
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_3655.png).
 
-6) Domain setup is complete
+6) Domain setup is complete. Click Done.
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_3656.png).
 ---
 
