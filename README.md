@@ -485,11 +485,15 @@ This lab focuses on managing access to enterprise applications by assigning user
 6) Next, select Naming Policy, and take note of the Naming Policy features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings8.png).
 
+### ✅ Lab 6: Configure external identity providers, including protocols such as SAML & WS-Fed
+This lab guides you through configuring external identity providers (IdPs) in Microsoft Entra ID (Azure AD), including protocols like SAML and WS-Fed. You will learn how to integrate third-party authentication systems, establish trust relationships, and enable seamless single sign-on (SSO) for external users, enhancing interoperability and user experience across organizational boundaries.
+
+1) Go to Entra ID, then click Properties, take note of the properties features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
+
   ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
 
    ### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
-
-  ### ✅ Lab 8: Configure external identity providers, including protocols such as SAML & WS-Fed
 
   ### ✅ Lab 9: Implement and manage Microsoft Entra Connect Sync with password hash sync
 
