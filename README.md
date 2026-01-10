@@ -466,8 +466,11 @@ This lab focuses on managing access to enterprise applications by assigning user
 1) Go to Entra ID, then click Properties, take note of the properties options
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
 
-2) Next, click users, then users settings
+2) Next, click users, then users settings, take note of the users settings options
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings3.png).
+
+3) Users settings cont.
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings4.png).
 
   ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
 
