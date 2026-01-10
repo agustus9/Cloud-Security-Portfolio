@@ -463,8 +463,9 @@ This lab covers the process of configuring and managing custom domains within Mi
 
 ### ✅ Lab 5: Assign, classify, and manage users, groups, and app roles for enterprise apps
 This lab focuses on managing access to enterprise applications by assigning users, groups, and app roles. You will learn how to classify and organize users and groups, assign role-based permissions to control access, and effectively manage application roles to ensure secure and streamlined access to enterprise apps within your organization.
-***Settings are based on organizational needs***
 
+***Settings are based on organizational needs***
+---
 1) Go to Entra ID, then click Properties, take note of the properties features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
 
