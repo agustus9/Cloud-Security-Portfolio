@@ -441,6 +441,7 @@ This lab guides you through the process of configuring and managing Administrati
 
 ### ✅ Lab 4: Configure and manage domains in Microsoft Entra ID and Microsoft 365
 This lab covers the process of configuring and managing custom domains within Microsoft Entra ID (Azure AD) and Microsoft 365. You will learn how to add, verify, and troubleshoot domain ownership, set up domain-specific policies, and manage DNS records. This enables seamless integration of your organization’s branded domains, ensuring consistent identity management across Azure AD and Microsoft 365 services.
+***Settings are based on Organizational Needs***
 
 1) Add Domain 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_365.png).
@@ -463,14 +464,23 @@ This lab covers the process of configuring and managing custom domains within Mi
 ### ✅ Lab 5: Assign, classify, and manage users, groups, and app roles for enterprise apps
 This lab focuses on managing access to enterprise applications by assigning users, groups, and app roles. You will learn how to classify and organize users and groups, assign role-based permissions to control access, and effectively manage application roles to ensure secure and streamlined access to enterprise apps within your organization.
 
-1) Go to Entra ID, then click Properties, take note of the properties options
+1) Go to Entra ID, then click Properties, take note of the properties features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
 
-2) Next, click users, then users settings, take note of the users settings options
+2) Next, click User, then User settings, and take note of the User settings features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings3.png).
 
 3) Users settings cont.
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings4.png).
+
+4) Next, select Groups, then Settings, then General, and take note of the General features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings6.png).
+
+5) Next, select Expiration, and take note of the Expiration features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings7.png).
+
+4) Next, select Naming Policy, and take note of the Naming Policy features
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings8.png).
 
   ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
 
