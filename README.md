@@ -49,58 +49,7 @@ This domain covers the foundational principles of cloud computing security, incl
 Design secure, scalable identity architectures with strong access controls.
 Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-based access control (RBAC) and identity federation from the start, embedding identity security into cloud architecture, enabling least privilege, and implementing network segmentation for secure multi-tenancy.
 
-## **Cloud Security Labs**
-
-## **Secure Cloud Architecture with IAM & Network Segmentation**
-This lab demonstrates the design and implementation of a secure cloud architecture using industry best practices for network segmentation, identity and access management (IAM), and zero-trust access controls.
-
-The environment is built using a multi-tier Virtual Private Cloud (VPC) architecture that separates public-facing and private workloads. A bastion host is deployed in a public subnet to provide controlled administrative access, while application workloads reside in a private subnet with no direct internet exposure. Access to private resources is strictly restricted through security groups and IAM policies, enforcing least-privilege and role-based access control (RBAC).
-
 ---
-
-Create a Secure Virtual Private Cloud (VPC)
----
-1) Open AWS Console
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud.png). 
-Go to:
-👉 https://console.aws.amazon.com/vpc
-
-2) Click on Create VPC, then fill out Resources to create, Name, IPv4 CIDR, and leave Tenancy as Default
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud2.png).
-
-3) Then click Create VPC
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud3.png).
-
-## **Create Subnets (Network Segmentation)**
-
-1) Go to Subnets, then click Create subnet, fill out Subnet name, Availability Zone, and CIDR. Then click Create subnet
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud4.png).
-
-## **Create Private Subnet**
-
-1) Click Create Subnet, fill out the Subnet name and CIDR, then click Create subnet
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud5.png).
-
-## **Create Internet Gateway (Public Access Only)**
-
-1) Go to Internet Gateways, then click Create, fill out the lab name, and then click Create Internet Gateway
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud6.png).
-
-2) Attach Internet Gateway, select Internet Gateway, then select Actions, then Attach to VPC
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud7.png).
-
-## **Create Route Tables**
-
-1) Go to Route Tables, then click Create
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud8.png).
-
-2) Fill out Name and VPC, then click Create route tables
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud9.png).
-
-## **Edit Routes**
-
-1) Add a route, then click Save Changes
-![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud10.png).
 
 ## Domain 2: Cloud Data Security ![Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
 
