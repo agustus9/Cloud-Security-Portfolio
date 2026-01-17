@@ -555,6 +555,9 @@ The lab showcases how organizations implement zero-trust privileged access by re
 6) Now click Activate
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management6.png).
 
+7) Check the Active assignments tab
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management7.png).
+
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
   ### ✅ Lab 16: Plan, create, configure, and manage Access Reviews in Entra ID
   ### ✅ Lab 17: Configuring notifications
