@@ -71,6 +71,28 @@ Go to:
 3) Then click Create VPC
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud3.png).
 
+## **Create Subnets (Network Segmentation)**
+
+1) Go to Subnets, then click Create subnet, fill out Subnet name, Availability Zone, and CIDR. Then click Create subnet
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud4.png).
+
+## **Create Private Subnet**
+
+1) Click Create Subnet, fill out the Subnet name and CIDR, then click Create subnet
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud5.png).
+
+## **Create Internet Gateway (Public Access Only)**
+
+1) Go to Internet Gateways, then click Create, fill out the lab name, and then click Create Internet Gateway
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud6.png).
+
+2) Attach Internet Gateway, select Internet Gateway, then select Actions, then Attach to VPC
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud7.png).
+
+## **Create Route Tables**
+
+1) Go to Route Tables, then click Create
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud8.png).
 ## Domain 2: Cloud Data Security ![Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
 
 Focuses on securing data in cloud environments throughout its lifecycle—at rest, in transit, and during processing. Techniques include cloud-specific encryption solutions (e.g., AWS KMS, Azure Key Vault), data masking, tokenization, and access control policies using cloud IAM. The domain also covers implementing Data Loss Prevention (DLP) tools integrated with cloud services, data classification frameworks, and privacy compliance (GDPR, HIPAA) to ensure proper data governance and protection in cloud platforms.
