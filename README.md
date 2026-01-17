@@ -531,8 +531,30 @@ The lab showcases how organizations replace legacy passwords with strong, crypto
 
 2) Observe the Authentication Methods, Primary & Secondary authentication guide
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_and_manage_authentication_certificate_temp_access_pass_OATH_&_FIDO2_2.png).
-  ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
-  ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
+
+### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
+This lab demonstrates the design and implementation of a Privileged Identity Management (PIM) solution to secure administrative access in a cloud identity environment. The solution enforces just-in-time (JIT) privilege elevation, approval-based access workflows, time-bound role assignments, and multi-factor authentication (MFA) for privileged roles. PIM is used to reduce standing administrative privileges and minimize the attack surface associated with highly privileged accounts.
+
+The lab showcases how organizations implement zero-trust privileged access by requiring explicit justification, approval, and time-limited elevation for sensitive roles such as Global Administrator, Security Administrator, and Application Administrator. Audit logs, access reviews, and role activation reports are used to validate enforcement and support compliance, security operations, and governance requirements.
+
+1) Click on All Services, then search for Privilege Identity Management
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management.png).
+
+2) Go to manage, then Microsoft Entra Roles
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management2.png).
+
+3) Go to Roles, then add Assignment, select roles, then user administrator. Click next
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management3.png).
+
+4) At the add Assignment page, click activate
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management4.png).
+
+5) PIV created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management5.png).
+
+6) Now click Activate
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management6.png).
+
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
   ### ✅ Lab 16: Plan, create, configure, and manage Access Reviews in Entra ID
   ### ✅ Lab 17: Configuring notifications
