@@ -495,15 +495,15 @@ This lab guides you through configuring external identity providers (IdPs) in Mi
 
    ### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
 
-  ### ✅ Lab 9: Implement and manage Microsoft Entra Connect Sync with password hash sync
+  ### ✅ Lab 9: Implement Conditional Access policy assignments and controls
 
   ### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
 
   ### ✅ Lab 11: Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
-  ### ✅ Lab 12: Use Defender for Cloud Apps & create a file policy for detection
-  ### ✅ Lab 13: Create an access request catalog & package for Medical User
+  ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
+  ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
-  ### ✅ Lab 16: Azure AD activity by using Log Analytics / Sentinel, Workbooks excluding KQL use
+  ### ✅ Lab 16: Plan, create, configure and manage Access Reviews in Entra ID
   ### ✅ Lab 17: Configuring notifications
 
 ---
