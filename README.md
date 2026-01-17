@@ -604,13 +604,6 @@ The lab showcases how organizations build proactive identity security operations
 
 ---
 
-## ☁️ Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
-- **AWS IAM**: Comprehensive IAM solution for managing access to Amazon Web Services resources.
-- **Microsoft Entra (Entra ID)**: Microsoft's identity management platform supporting single sign-on and multi-factor authentication.
-- **Google Cloud IAM**: Google's IAM service for managing access and permissions across Google Cloud resources.
-
----
-
 ## 🛠️ Third-Party IAM Solutions
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
 - **SailPoint**: Built-in identity and access management features within the Salesforce ecosystem, enabling secure user access and federation.
