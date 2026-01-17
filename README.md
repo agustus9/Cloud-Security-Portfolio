@@ -586,6 +586,21 @@ The lab showcases how organizations automate access governance by requiring busi
 
 
   ### ✅ Lab 17: Configuring notifications
+This lab demonstrates the configuration and management of security and identity notifications to provide real-time visibility into authentication events, access changes, and governance actions within a cloud identity environment. The solution implements alerting for high-risk sign-ins, Conditional Access policy enforcement, privileged role activations, Access Review outcomes, and directory changes. Notifications are delivered through email and security operations channels to support rapid incident response and continuous monitoring.
+
+The lab showcases how organizations build proactive identity security operations by integrating notifications into their SOC workflows. Alert rules are scoped by severity, user role, and risk level to reduce alert fatigue while ensuring high-impact events receive immediate attention. Audit logs and alert reports are used to validate notification delivery and support compliance, security operations, and identity governance.
+
+1) Go to Microsoft Entra ID, all services, then search notifications hubs
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Configuring_notifications.png).
+
+2) Go to Microsoft Entra ID, all services, then search notifications hubs
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Configuring_notifications2.png).
+
+3) Fill in notifications hubs details, then click create
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Configuring_notifications3.png).
+
+4) Notification deployed
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Configuring_notifications4.png).
 
 ---
 
