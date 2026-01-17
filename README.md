@@ -558,8 +558,33 @@ The lab showcases how organizations implement zero-trust privileged access by re
 7) Check the Active assignments tab
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Privilege_Identity_Management7.png).
 
-  ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
-  ### ✅ Lab 16: Plan, create, configure, and manage Access Reviews in Entra ID
+### ✅ Lab 16: Plan, create, configure, and manage Access Reviews in Entra ID
+This lab demonstrates the planning, implementation, and operational management of Access Reviews in Microsoft Entra ID to ensure continuous validation of user access to cloud resources, applications, and privileged roles. The solution enforces periodic access recertification for users, guests, and service principals across critical groups, applications, and Azure role assignments, supporting least-privilege access and regulatory compliance.
+
+The lab showcases how organizations automate access governance by requiring business and security stakeholders to regularly attest to user access needs. Review workflows are configured with approval rules, escalation paths, and automatic remediation actions to remove unauthorized or stale access. Audit logs and review reports are used to validate enforcement and provide evidence for compliance, identity governance, and security operations.
+
+1) Go to Microsoft Entra ID, click on Identity Governance
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID.png).
+
+2) Click on Access Reviews, then New Access
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID2.png).
+
+3) Fill in the new access review details, then click reviews
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID3.png).
+
+4) Fill in the new access review details, then click settings 
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID5.png).
+
+5) Fill in the new access review details, then click settings cont..
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID6.png).
+
+6) Add review name, then create
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID7.png).
+
+7) Access review details
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Access_Reviews_in_Entra_ID8.png).
+
+
   ### ✅ Lab 17: Configuring notifications
 
 ---
