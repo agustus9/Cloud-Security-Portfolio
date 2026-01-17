@@ -494,7 +494,7 @@ This lab guides you through configuring external identity providers (IdPs) in Mi
 ### ✅ Lab 8: Create a conditional access policy that blocks high risk Android...
 This lab demonstrates the design and implementation of a Conditional Access policy that blocks authentication attempts from high-risk Android devices. Using identity risk signals and device compliance posture, the policy enforces zero-trust access controls by preventing compromised or non-compliant mobile devices from accessing corporate cloud resources. This lab showcases how cloud identity security, device trust, and risk-based access decisions are used to reduce account takeover, malware propagation, and data exfiltration in enterprise environments.
 
-1) Go to Entra ID, Security, Identity Protection, then User risk policy
+1) Go to Entra ID, Security, Identity Protection, then User Risk Policy
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/use_entra_ID_protection_to_set_user_risk_to_medium.png).
 
 2) Click user risk, medium and above, then click done, enable policy enforcement, then click save *Note: I do not have access to Policy Enforcement Option 
@@ -502,12 +502,30 @@ This lab demonstrates the design and implementation of a Conditional Access poli
 
 3) Click Sign-in Risk Policy, medium and above, low and above, click done, then save
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/use_entra_ID_protection_to_set_user_risk_to_medium3.png).
+
+
 ### ✅ Lab 9: Implement Conditional Access policy assignments and controls
-### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
+his lab demonstrates the implementation of Azure Conditional Access policies to enforce identity-based security controls across cloud applications. The solution applies policy assignments based on user roles, device compliance status, location, and sign-in risk level. Access controls are enforced through multi-factor authentication (MFA), device compliance requirements, and session restrictions, ensuring only trusted users and devices can access corporate cloud resources.
+
+The lab showcases how Conditional Access enables zero-trust access decisions by evaluating real-time identity risk signals and contextual factors. Policies are scoped using precise user, group, application, and platform assignments to enforce least-privilege access while minimizing business disruption. Audit logs and sign-in reports are used to validate policy effectiveness and support security monitoring and compliance requirements.
+
+1) Go to Entra ID, Conditional Access, then create a new policy
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_conditional_access_policy_assignments_and_controls.png).
+
+2) Go to Entra ID, Conditional Access, and fill out the Conditional Access policy details
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_conditional_access_policy_assignments_and_controls2.png).
+
+3) Go to Entra ID, Conditional Access, and fill out the Conditional Access policy details, Enable policy, then create cont...
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_conditional_access_policy_assignments_and_controls3.png).
+
+4) Conditional Access policy created
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_conditional_access_policy_assignments_and_controls4.png).
+
+### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass, OATH, & FIDO2
   ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
   ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
-  ### ✅ Lab 16: Plan, create, configure and manage Access Reviews in Entra ID
+  ### ✅ Lab 16: Plan, create, configure, and manage Access Reviews in Entra ID
   ### ✅ Lab 17: Configuring notifications
 
 ---
