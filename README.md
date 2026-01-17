@@ -491,15 +491,9 @@ This lab guides you through configuring external identity providers (IdPs) in Mi
 1) Go to Entra ID, then click Properties, take note of the properties features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
 
-  ### ✅ Lab 5: Configure Azure Key Vault role-based access control (RBAC) and access policies
-
-   ### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
-
-  ### ✅ Lab 9: Implement Conditional Access policy assignments and controls
-
-  ### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
-
-  ### ✅ Lab 11: Implement and manage tenant-wide Multi-factor Authentication (MFA) settings
+### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
+### ✅ Lab 9: Implement Conditional Access policy assignments and controls
+### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
   ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
   ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
