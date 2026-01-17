@@ -49,7 +49,21 @@ This domain covers the foundational principles of cloud computing security, incl
 Design secure, scalable identity architectures with strong access controls.
 Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-based access control (RBAC) and identity federation from the start, embedding identity security into cloud architecture, enabling least privilege, and implementing network segmentation for secure multi-tenancy.
 
+## **Cloud Security Labs**
+
+## **Secure Cloud Architecture with IAM & Network Segmentation**
+This lab demonstrates the design and implementation of a secure cloud architecture using industry best practices for network segmentation, identity and access management (IAM), and zero-trust access controls.
+
+The environment is built using a multi-tier Virtual Private Cloud (VPC) architecture that separates public-facing and private workloads. A bastion host is deployed in a public subnet to provide controlled administrative access, while application workloads reside in a private subnet with no direct internet exposure. Access to private resources is strictly restricted through security groups and IAM policies, enforcing least-privilege and role-based access control (RBAC).
+
 ---
+
+Create a Secure Virtual Private Cloud (VPC)
+---
+1) Open AWS Console
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/create_a_secure_virtual_private_cloud.png). 
+Go to:
+👉 https://console.aws.amazon.com/vpc
 
 ## Domain 2: Cloud Data Security ![Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
 
