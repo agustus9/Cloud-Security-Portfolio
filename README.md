@@ -396,7 +396,7 @@ This lab guides you through configuring and managing Microsoft Entra (Azure AD) 
 11) AD Domain Controller Installed 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/setting_up_a_domain_controller12.png).
 
-### 🔑 Lab 2: Configure and manage built-in and custom Microsoft Entra roles
+### 🔑 Lab 3: Configure and manage built-in and custom Microsoft Entra roles
 This lab walks you through the process of configuring and managing Microsoft Entra (Azure AD) roles. You will learn how to assign and modify built-in roles to meet organizational needs, as well as create and customize custom roles for specific administrative tasks. This exercise emphasizes the importance of role-based access control (RBAC) to enforce the principle of least privilege and enhance security within your Azure environment.
 
 1) Select New Custom Role
@@ -415,7 +415,7 @@ This lab walks you through the process of configuring and managing Microsoft Ent
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_built-in_and_custom_microsoft_entra_roles5.png).
 ---
 
-### 🔒 Lab 3: Configure and manage administrative units
+### 🔒 Lab 4: Configure and manage administrative units
 This lab guides you through the process of configuring and managing Administrative Units within Microsoft Entra (Azure AD). You will learn how to create administrative units to delegate management of specific groups or users, assign roles at the administrative unit level, and enforce scoped administrative permissions. This practice helps in segmenting administrative responsibilities and maintaining a secure, organized management structure in large or complex environments.
 
 1) Create New User
@@ -439,7 +439,7 @@ This lab guides you through the process of configuring and managing Administrati
 6) User added to Administrative Unit 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_administrative_units7.png).
 
-### ✅ Lab 4: Configure and manage domains in Microsoft Entra ID and Microsoft 365
+### ✅ Lab 5: Configure and manage domains in Microsoft Entra ID and Microsoft 365
 This lab covers the process of configuring and managing custom domains within Microsoft Entra ID (Azure AD) and Microsoft 365. You will learn how to add, verify, and troubleshoot domain ownership, set up domain-specific policies, and manage DNS records. This enables seamless integration of your organization’s branded domains, ensuring consistent identity management across Azure AD and Microsoft 365 services.
 ***Settings are based on Organizational Needs***
 
@@ -461,7 +461,7 @@ This lab covers the process of configuring and managing custom domains within Mi
 6) Domain setup is complete. Click Done.
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_and_manage_domains_in_microsoft_entra_id_and_microsoft_3656.png).
 
-### ✅ Lab 5: Assign, classify, and manage users, groups, and app roles for enterprise apps
+### ✅ Lab 6: Assign, classify, and manage users, groups, and app roles for enterprise apps
 This lab focuses on managing access to enterprise applications by assigning users, groups, and app roles. You will learn how to classify and organize users and groups, assign role-based permissions to control access, and effectively manage application roles to ensure secure and streamlined access to enterprise apps within your organization.
 
 ---
@@ -485,13 +485,23 @@ This lab focuses on managing access to enterprise applications by assigning user
 6) Next, select Naming Policy, and take note of the Naming Policy features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings8.png).
 
-### ✅ Lab 6: Configure external identity providers, including protocols such as SAML & WS-Fed
+### ✅ Lab 7: Configure external identity providers, including protocols such as SAML & WS-Fed
 This lab guides you through configuring external identity providers (IdPs) in Microsoft Entra ID (Azure AD), including protocols like SAML and WS-Fed. You will learn how to integrate third-party authentication systems, establish trust relationships, and enable seamless single sign-on (SSO) for external users, enhancing interoperability and user experience across organizational boundaries.
 
 1) Go to Entra ID, then click Properties, take note of the properties features
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/configure_tenant_properties_user_settings_group_settings_and_device_settings.png).
 
-### ✅ Lab 6: Create a conditional access policy that blocks high risk Android...
+### ✅ Lab 8: Create a conditional access policy that blocks high risk Android...
+This lab demonstrates the design and implementation of a Conditional Access policy that blocks authentication attempts from high-risk Android devices. Using identity risk signals and device compliance posture, the policy enforces zero-trust access controls by preventing compromised or non-compliant mobile devices from accessing corporate cloud resources. This lab showcases how cloud identity security, device trust, and risk-based access decisions are used to reduce account takeover, malware propagation, and data exfiltration in enterprise environments.
+
+1) Go to Entra ID, Security, Identity Protection, then User risk policy
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/use_entra_ID_protection_to_set_user_risk_to_medium.png).
+
+2) Click user risk, medium and above, then click done, enable policy enforcement, then click save *Note: I do not have access to Policy Enforcement Option 
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/use_entra_ID_protection_to_set_user_risk_to_medium2.png).
+
+3) Click Sign-in Risk Policy, medium and above, low and above, click done, then save
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/use_entra_ID_protection_to_set_user_risk_to_medium3.png).
 ### ✅ Lab 9: Implement Conditional Access policy assignments and controls
 ### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass,OATH, & FIDO2
   ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
