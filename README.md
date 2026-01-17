@@ -522,6 +522,15 @@ The lab showcases how Conditional Access enables zero-trust access decisions by 
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_conditional_access_policy_assignments_and_controls4.png).
 
 ### ✅ Lab 10: Implement and manage authentication, certificate, temp access pass, OATH, & FIDO2
+This lab demonstrates the implementation and management of modern, phishing-resistant authentication methods in a cloud identity environment. The solution configures and enforces multiple strong authentication mechanisms, including certificate-based authentication, Temporary Access Pass (TAP) for secure onboarding, OATH hardware/software tokens, and FIDO2 security keys. These methods are integrated into a centralized identity platform and governed by Conditional Access policies to enforce risk-based, zero-trust authentication.
+
+The lab showcases how organizations replace legacy passwords with strong, cryptographic authentication and secure recovery workflows. It also demonstrates how different authentication methods are assigned by user role, device trust level, and risk posture, enabling secure access for administrators, developers, and end users while maintaining operational flexibility. Audit logs and authentication reports are used to validate enforcement and support compliance and security monitoring.
+
+1) Go to Authentication methods
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_and_manage_authentication_certificate_temp_access_pass_OATH_&_FIDO2.png).
+
+2) Observe the Authentication Methods, Primary & Secondary authentication guide
+![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/implement_and_manage_authentication_certificate_temp_access_pass_OATH_&_FIDO2_2.png).
   ### ✅ Lab 12: Design and implement integration for software as a service (SaaS) apps
   ### ✅ Lab 13: Implementing & Configuring Privileged Identity Management (PIM)
   ### ✅ Lab 14:  Use PIM and make Adam Young eligible for User Administrator...
