@@ -107,11 +107,13 @@ Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate 
 **Identity and Access Management (IAM)** is a fundamental aspect of cloud security that involves managing digital identities and controlling access to cloud resources. It ensures that only authorized users and systems can perform specific actions, thereby safeguarding sensitive data and infrastructure.
 
 **Core Components:**
-AAA Framework
+IAAA Framework
+- **Identification:** The process where a user or system claims an identity (e.g., username, ID number) to begin access. 
 - **Authentication:** Verifies a user's identity, answering "Who are you?" using credentials like passwords, biometrics, or MFA. 
 - **Authorization:** Determines what an authenticated user can access and what actions they can perform, answering "What can you do?" 
+- **Auditing & Reporting:** Tracks and logs all user access and activity to ensure accountability and compliance.
+**5th pillar in the IAM model:**
 - **Administration:** Manages user identities, roles, and permissions throughout their lifecycle (onboarding, changes, offboarding). 
-- **Auditing & Reporting:** Tracks and logs all user access and activity to ensure accountability and compliance. 
 
 **Core Features of IAM:**
 - **Identity Governance & Administration (IGA):** The overall framework for managing identities and access policies.
