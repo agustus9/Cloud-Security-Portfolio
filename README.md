@@ -112,6 +112,7 @@ IAAA Framework
 - **Authentication:** Verifies a user's identity, answering "Who are you?" using credentials like passwords, biometrics, or MFA. 
 - **Authorization:** Determines what an authenticated user can access and what actions they can perform, answering "What can you do?" 
 - **Auditing & Reporting:** Tracks and logs all user access and activity to ensure accountability and compliance.
+  
 **5th pillar in the IAM model:**
 - **Administration:** Manages user identities, roles, and permissions throughout their lifecycle (onboarding, changes, offboarding). 
 
