@@ -28,17 +28,18 @@ Cloud Security encompasses the strategies, policies, and technologies used to pr
 
 Identity and Access Management (IAM) is a critical component of cloud security that manages user identities and controls access to cloud resources. It involves creating and managing user accounts, setting permissions, and implementing authentication mechanisms like multi-factor authentication (MFA) to ensure that only authorized individuals can access specific data and services.
 
-Key Components:
+**Key Components:**
 
-Encryption: Protects data at rest and in transit.
-Access Controls: Define who can access what and under which conditions.
-Monitoring & Auditing: Track activities for suspicious behavior and compliance.
-Multi-Factor Authentication (MFA): Adds an extra layer of security for user verification.
-Role-Based Access Control (RBAC): Assigns permissions based on user roles.
-Importance:
+**Encryption:** Protects data at rest and in transit.
+**Access Controls:** Define who can access what and under which conditions.
+**Monitoring & Auditing:** Track activities for suspicious behavior and compliance.
+**Multi-Factor Authentication (MFA):** Adds an extra layer of security for user verification.
+**Role-Based Access Control (RBAC):** Assigns permissions based on user roles.
+
+**Importance:**
 Cloud Security & IAM are vital for safeguarding sensitive information, maintaining regulatory compliance, and ensuring operational resilience in cloud environments.:
 
-Cloud Security Domains
+**Cloud Security Domains**
 ---
 
 ## Domain 1: Cloud Concepts, Architecture, and Design ![Badge](https://img.shields.io/badge/Cloud%20Concepts-Architecture-brightblue?style=for-the-badge&logo=cloud)
@@ -108,7 +109,7 @@ Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate 
 **Core Components:**
 **Authentication:** Verifies a user's identity, answering "Who are you?" using credentials like passwords, biometrics, or MFA. 
 **Authorization:** Determines what an authenticated user can access and what actions they can perform, answering "What can you do?" 
-**Administration (User Management):** Manages user identities, roles, and permissions throughout their lifecycle (onboarding, changes, offboarding). 
+**Administration:** Manages user identities, roles, and permissions throughout their lifecycle (onboarding, changes, offboarding). 
 **Auditing & Reporting:** Tracks and logs all user access and activity to ensure accountability and compliance. 
 
 **Core Features of IAM:**
