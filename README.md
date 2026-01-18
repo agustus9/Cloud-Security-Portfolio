@@ -105,11 +105,19 @@ Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate 
 
 **Identity and Access Management (IAM)** is a fundamental aspect of cloud security that involves managing digital identities and controlling access to cloud resources. It ensures that only authorized users and systems can perform specific actions, thereby safeguarding sensitive data and infrastructure.
 
+**Core Components:**
+**Authentication:** Verifies a user's identity, answering "Who are you?" using credentials like passwords, biometrics, or MFA. 
+**Authorization:** Determines what an authenticated user can access and what actions they can perform, answering "What can you do?" 
+**Administration (User Management):** Manages user identities, roles, and permissions throughout their lifecycle (onboarding, changes, offboarding). 
+**Auditing & Reporting:** Tracks and logs all user access and activity to ensure accountability and compliance. 
+
 **Core Features of IAM:**
+- **Identity Governance & Administration (IGA):** The overall framework for managing identities and access policies.
+- **User Provisioning and De-provisioning:** User provisioning and de-provisioning automate the JML cycle by granting access to Joiners, updating it for Movers, and revoking it for Leavers to maintain security.
 - **User Identity Management:** Creating, updating, and deleting user accounts.
-- **Authentication:** Verifying user identities through methods such as passwords, MFA, and federated identity providers.
-- **Authorization:** Assigning permissions and roles to define what resources users can access and what actions they can perform.
+- **Access Reviews (or Access Certifications):** Serve as a critical audit mechanism to verify that user provisioning remains accurate and that de-provisioning has been fully executed.
 - **Role-Based Access Control (RBAC):** Simplifies permission management by assigning predefined roles to users based on their responsibilities.
+- **Privileged Access Management (PAM):** Focuses on securing high-risk, privileged accounts. 
 - **Policy Management:** Defining security policies that govern access rules and conditions.
 
 **Best Practices:**
