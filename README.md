@@ -53,11 +53,11 @@ Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-bas
 ### Relevant Projects:
 **IAM-Cross-Account-Access**
   - Manages cross-account IAM permissions for secure multi-account architectures.
-**2-vpc-infrastructure-as-code**
+**vpc-infrastructure-as-code**
   - Automates secure network design using Infrastructure as Code.
-**3-centralized-logging**
+**centralized-logging**
   - Implements centralized log management for architecture monitoring.
-**4-break-glass-access**
+**break-glass-access**
   - Emergency access procedures for resilience and security.
 
 ---
@@ -73,9 +73,9 @@ Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access 
 ### Relevant Projects:
 **Secrets-Management**
   - Manages secrets and encryption keys securely.
-**2-cloud-security-audit**
+**cloud-security-audit**
   - Audits data security controls and compliance.
-**3-cicd-security-pipeline**
+**cicd-security-pipeline**
   - Secures deployment pipelines involving data and secrets.
 
 ---
@@ -91,13 +91,13 @@ Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access 
 ### Relevant Projects:
 **VPC-Infrastructure-As-Code**
   - Infrastructure security automation.
-**2-cicd-security-pipeline**
+**cicd-security-pipeline**
   - Secure CI/CD pipeline implementation.
-**3-threat-modeling**
+**threat-modeling**
   - Identifies threats in cloud infrastructure.
-**4-cloud-security-audit**
+**cloud-security-audit**
   - Infrastructure security assessments.
-**5-centralized-logging**
+**centralized-logging**
   - Monitoring infrastructure threats.
 
 ---
@@ -113,11 +113,11 @@ Implementation: Implement OAuth 2.0, OpenID Connect, and API gateways (e.g., Azu
 ### Relevant Projects:
 **CI/CD-Security-Pipeline**
   - Security in CI/CD pipelines.
-**2-threat-modeling**
+**threat-modeling**
   - Application threat detection.
-**3-secrets-management**
+**secrets-management**
   - Protects API keys and secrets.
-**4-cloud-security-audit**
+**cloud-security-audit**
   - Application security assessments.
 
 ---
@@ -133,11 +133,11 @@ Implementation: Use Azure Sentinel, AWS Security Hub, or Google Chronicle combin
 ### Relevant Projects:
 **Centralized-Logging**
   - Centralized logs for monitoring.
-**2-cloud-security-audit**
+**cloud-security-audit**
   - Security audits.
-**3-break-glass-access**
+**break-glass-access**
   - Emergency access procedures.
-**4-threat-modeling**
+**threat-modeling**
   - Threat detection and response.
 
 ---
@@ -153,9 +153,9 @@ Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate 
 ### Relevant Projects:
 **Cloud-Security-Audit**
   - Auditing for compliance.
-**2-secrets-management**
+**secrets-management**
   - Secrets management for compliance.
-**3-threat-modeling**
+**threat-modeling**
   - Risk assessment and mitigation.
 
 ---
