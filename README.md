@@ -51,7 +51,7 @@ Design secure, scalable identity architectures with strong access controls.
 Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-based access control (RBAC) and identity federation from the start, embedding identity security into cloud architecture, enabling least privilege, and implementing network segmentation for secure multi-tenancy.
 
 ### Relevant Projects:
-**1-iam-cross-account-access**
+**iam-cross-account-access**
   - Manages cross-account IAM permissions for secure multi-account architectures.
 **2-vpc-infrastructure-as-code**
   - Automates secure network design using Infrastructure as Code.
@@ -71,7 +71,7 @@ Secure infrastructure components with granular identity and access controls.
 Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access to cloud resources such as VMs, containers, and networking. Use identity federation (e.g., AWS Cognito, Azure AD) and Infrastructure-as-Code (IaC) security practices to enforce access policies and automate vulnerability management with tools like AWS Security Hub or Azure Security Center.
 
 ### Relevant Projects:
-**1-secrets-management**
+**secrets-management**
   - Manages secrets and encryption keys securely.
 **2-cloud-security-audit**
   - Audits data security controls and compliance.
@@ -89,7 +89,7 @@ Secure infrastructure components with granular identity and access controls.
 Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access to cloud resources such as VMs, containers, and networking. Use identity federation (e.g., AWS Cognito, Azure AD) and Infrastructure-as-Code (IaC) security practices to enforce access policies and automate vulnerability management with tools like AWS Security Hub or Azure Security Center.
 
 ### Relevant Projects:
-**1-vpc-infrastructure-as-code**
+**vpc-infrastructure-as-code**
   - Infrastructure security automation.
 **2-cicd-security-pipeline**
   - Secure CI/CD pipeline implementation.
@@ -111,7 +111,7 @@ Protect APIs and applications with strong authentication and authorization.
 Implementation: Implement OAuth 2.0, OpenID Connect, and API gateways (e.g., Azure API Management, AWS API Gateway) integrated with Okta or Auth0 for secure API access. Apply role-based access policies and enforce secure coding practices, including SAST/DAST tools, to prevent common vulnerabilities.
 
 ### Relevant Projects:
-**1-cicd-security-pipeline**
+**cicd-security-pipeline**
   - Security in CI/CD pipelines.
 **2-threat-modeling**
   - Application threat detection.
@@ -131,7 +131,7 @@ Enable continuous monitoring of access and user activity.
 Implementation: Use Azure Sentinel, AWS Security Hub, or Google Chronicle combined with CloudTrail, Azure Monitor, or Google Cloud Operations to track access logs. Configure alerts for suspicious activity, integrate with SOAR platforms, and enforce automated incident response workflows, ensuring proper access oversight.
 
 ### Relevant Projects:
-**1-centralized-logging**
+**centralized-logging**
   - Centralized logs for monitoring.
 **2-cloud-security-audit**
   - Security audits.
@@ -151,7 +151,7 @@ Ensure access controls and identity policies support regulatory compliance.
 Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate access reviews, enforce policies aligned with standards like GDPR, HIPAA, and PCI DSS, and maintain audit trails. Conduct risk assessments and compliance audits regularly to verify that IAM controls meet legal and regulatory requirements.
 
 ### Relevant Projects:
-**1-cloud-security-audit**
+**cloud-security-audit**
   - Auditing for compliance.
 **2-secrets-management**
   - Secrets management for compliance.
