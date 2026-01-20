@@ -51,8 +51,8 @@ Design secure, scalable identity architectures with strong access controls.
 Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-based access control (RBAC) and identity federation from the start, embedding identity security into cloud architecture, enabling least privilege, and implementing network segmentation for secure multi-tenancy.
 
 ### Relevant Projects:
-- **01-iam-cross-account-access**
-   Manages cross-account IAM permissions for secure multi-account architectures.
+**01-iam-cross-account-access**
+  - Manages cross-account IAM permissions for secure multi-account architectures.
 - **02-vpc-infrastructure-as-code**
   - Automates secure network design using Infrastructure as Code.
 - **05-centralized-logging**
