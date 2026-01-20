@@ -52,7 +52,7 @@ Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-bas
 
 ### Relevant Projects:
 - **01-iam-cross-account-access**
-  - Manages cross-account IAM permissions for secure multi-account architectures.
+   Manages cross-account IAM permissions for secure multi-account architectures.
 - **02-vpc-infrastructure-as-code**
   - Automates secure network design using Infrastructure as Code.
 - **05-centralized-logging**
