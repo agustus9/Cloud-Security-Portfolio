@@ -50,6 +50,16 @@ This domain covers the foundational principles of cloud computing security, incl
 Design secure, scalable identity architectures with strong access controls.
 Implementation: Use Azure AD, AWS IAM, or Google Cloud IAM to establish role-based access control (RBAC) and identity federation from the start, embedding identity security into cloud architecture, enabling least privilege, and implementing network segmentation for secure multi-tenancy.
 
+### Relevant Projects:
+- **01-iam-cross-account-access**
+  - Manages cross-account IAM permissions for secure multi-account architectures.
+- **02-vpc-infrastructure-as-code**
+  - Automates secure network design using Infrastructure as Code.
+- **05-centralized-logging**
+  - Implements centralized log management for architecture monitoring.
+- **06-break-glass-access**
+  - Emergency access procedures for resilience and security.
+
 ---
 
 ## Domain 2: Cloud Data Security ![Badge](https://img.shields.io/badge/Data%20Security-Protection-blue?style=for-the-badge&logo=security)
@@ -59,6 +69,14 @@ Focuses on securing data in cloud environments throughout its lifecycle—at res
 ### **IAM Best Practice**
 Secure infrastructure components with granular identity and access controls.
 Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access to cloud resources such as VMs, containers, and networking. Use identity federation (e.g., AWS Cognito, Azure AD) and Infrastructure-as-Code (IaC) security practices to enforce access policies and automate vulnerability management with tools like AWS Security Hub or Azure Security Center.
+
+### Relevant Projects:
+- **07-secrets-management**
+  - Manages secrets and encryption keys securely.
+- **04-cloud-security-audit**
+  - Audits data security controls and compliance.
+- **03-cicd-security-pipeline**
+  - Secures deployment pipelines involving data and secrets.
 
 ---
 
@@ -70,6 +88,18 @@ Centers on securing cloud infrastructure components such as virtual machines, co
 Secure infrastructure components with granular identity and access controls.
 Implementation: Deploy Azure AD, AWS IAM, or Google Cloud IAM to control access to cloud resources such as VMs, containers, and networking. Use identity federation (e.g., AWS Cognito, Azure AD) and Infrastructure-as-Code (IaC) security practices to enforce access policies and automate vulnerability management with tools like AWS Security Hub or Azure Security Center.
 
+### Relevant Projects:
+- **02-vpc-infrastructure-as-code**
+  - Infrastructure security automation.
+- **03-cicd-security-pipeline**
+  - Secure CI/CD pipeline implementation.
+- **08-threat-modeling**
+  - Identifies threats in cloud infrastructure.
+- **04-cloud-security-audit**
+  - Infrastructure security assessments.
+- **05-centralized-logging**
+  - Monitoring infrastructure threats.
+
 ---
 
 ## Domain 4: Cloud Application Security ![Badge](https://img.shields.io/badge/Application-Dev-red?style=for-the-badge&logo=code)
@@ -79,6 +109,16 @@ Addresses securing cloud-native applications throughout their development lifecy
 ### **IAM Best Practice**
 Protect APIs and applications with strong authentication and authorization.
 Implementation: Implement OAuth 2.0, OpenID Connect, and API gateways (e.g., Azure API Management, AWS API Gateway) integrated with Okta or Auth0 for secure API access. Apply role-based access policies and enforce secure coding practices, including SAST/DAST tools, to prevent common vulnerabilities.
+
+### Relevant Projects:
+- **03-cicd-security-pipeline**
+  - Security in CI/CD pipelines.
+- **08-threat-modeling**
+  - Application threat detection.
+- **07-secrets-management**
+  - Protects API keys and secrets.
+- **04-cloud-security-audit**
+  - Application security assessments.
 
 ---
 
@@ -90,6 +130,16 @@ Focuses on continuous security monitoring and incident response tailored for clo
 Enable continuous monitoring of access and user activity.
 Implementation: Use Azure Sentinel, AWS Security Hub, or Google Chronicle combined with CloudTrail, Azure Monitor, or Google Cloud Operations to track access logs. Configure alerts for suspicious activity, integrate with SOAR platforms, and enforce automated incident response workflows, ensuring proper access oversight.
 
+### Relevant Projects:
+- **05-centralized-logging**
+  - Centralized logs for monitoring.
+- **04-cloud-security-audit**
+  - Security audits.
+- **06-break-glass-access**
+  - Emergency access procedures.
+- **08-threat-modeling**
+  - Threat detection and response.
+
 ---
 
 ## Domain 6: Legal, Risk, and Compliance![Badge](https://img.shields.io/badge/Legal-Risk-green?style=for-the-badge&logo=gavel)
@@ -99,6 +149,14 @@ Covers the regulatory frameworks governing cloud security, such as GDPR, HIPAA, 
 ### **IAM Best Practice**
 Ensure access controls and identity policies support regulatory compliance.
 Implementation: Leverage tools like Saviynt, SailPoint, or CyberArk to automate access reviews, enforce policies aligned with standards like GDPR, HIPAA, and PCI DSS, and maintain audit trails. Conduct risk assessments and compliance audits regularly to verify that IAM controls meet legal and regulatory requirements.
+
+### Relevant Projects:
+- **04-cloud-security-audit**
+  - Auditing for compliance.
+- **07-secrets-management**
+  - Secrets management for compliance.
+- **08-threat-modeling**
+  - Risk assessment and mitigation.
 
 ---
 
