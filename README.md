@@ -10,10 +10,15 @@
 </head>
 <body>
   <p align="center">
-  <img src="cloud_security_&_iam_portfolio.png" alt="Cloud Security & IAM Portfolio" style="width: 1020px; height: 620px; border-radius: 12px;" />
-</p>
+    <img 
+      src="iam_cloud_security_portfolio.png" 
+      alt="IAM & Cloud Security Portfolio." 
+      style="width: 1020px; height: 620px; border-radius: 12px;" 
+    />
+  </p>
 </body>
 </html>
+
 Still in progress.....
 
 # Summary
