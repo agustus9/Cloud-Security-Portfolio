@@ -23,7 +23,7 @@ Still in progress.....
 
 # Summary
 
-This portfolio showcases my understanding of Cloud Security & IAM, protecting cloud environments, and managing user access effectively. Cloud Security involves implementing measures such as encryption, firewalls, and monitoring to safeguard data and resources in the cloud. Identity and Access Management (IAM) ensures that the right individuals have secure access to the appropriate resources, using tools like multi-factor authentication, role-based access control, and user policies. Together, they form the foundation for secure, compliant, and efficient cloud operations.
+This portfolio showcases my understanding of IAM & Cloud Security & IAM, managing user access effectively and protecting cloud environments. Identity and Access Management (IAM) ensures that the right individuals have secure access to the appropriate resources, using tools like multi-factor authentication, role-based access control, and user policies. Cloud Security involves implementing measures such as encryption, firewalls, and monitoring to safeguard data and resources in the cloud. Together, they form the foundation for secure, compliant, and efficient cloud operations.
 
 ---
 
