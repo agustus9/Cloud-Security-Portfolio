@@ -292,6 +292,126 @@ This demonstrates how Zero Trust supports **audit readiness, risk reduction, and
 - Scalable security for cloud-first organizations  
 - Clear linkage between technical controls and business risk
 
+---
+
+## 🔄 Identity Lifecycle Management (Joiner–Mover–Leaver | JML)
+
+### **Overview**
+This section demonstrates **automated Identity Lifecycle Management (JML)**, covering **Joiner, Mover, and Leaver** processes as a core IAM capability. The focus is on **secure, policy-driven, and auditable provisioning and deprovisioning**, aligned with Zero Trust principles and enterprise governance requirements.
+
+The implementation emphasizes **pre-provisioning (future-state access)**, automation, and access lifecycle controls that reduce risk, improve operational efficiency, and support regulatory compliance.
+
+---
+
+### Identity Lifecycle Principles
+- Identity as the authoritative security control  
+- Least privilege access at every lifecycle stage  
+- Automation over manual provisioning  
+- Pre-provisioning for Day-1 readiness  
+- Immediate deprovisioning to reduce insider risk  
+- Full auditability and evidence generation  
+
+---
+
+### **JML Lifecycle Stages Implemented**
+
+### **Joiner (Pre-Provisioning)**
+- Triggered by authoritative HR events (future hires)  
+- Identity created in a disabled state prior to the start date  
+- Role-based access assignments applied automatically  
+- Accounts enabled on Day-1 without manual intervention  
+- Provisioning actions logged for audit purposes  
+
+### **Mover**
+- Triggered by role, department, or location changes  
+- Automated removal of previous entitlements  
+- Assignment of new role-based access  
+- Access delta tracking (before/after changes)  
+- Periodic access review support  
+
+### **Leaver**
+- Triggered by termination or separation events  
+- Immediate account disablement  
+- Automated access removal across systems  
+- Preservation of logs and evidence  
+- Support for retention and forensic review   
+
+---
+
+### 🤖 Automation & Orchestration
+
+### **Overview**
+This portfolio emphasizes **automation-first Identity Lifecycle Management**, eliminating manual provisioning and ensuring access changes are **consistent, repeatable, and auditable**. Automation is used to enforce policy, reduce human error, and support Zero Trust principles across the Joiner–Mover–Leaver (JML) lifecycle.
+
+All identity actions are triggered by **authoritative business events**, not ad-hoc requests.
+
+---
+
+### **Automation Objectives**
+- Eliminate manual access provisioning
+- Enforce least privilege by default
+- Enable pre-provisioning for future hires
+- Ensure immediate deprovisioning for leavers
+- Generate audit-ready evidence automatically
+- Scale identity governance without increasing operational risk
+
+---
+
+### **Automation Architecture**
+
+Authoritative Source (HR)
+        ↓
+Rule Engine (RBAC / ABAC)
+        ↓
+Approval Logic (Optional)
+        ↓
+Provisioning Scripts
+        ↓
+Target Systems
+        ↓
+Logging & Audit Evidence
+
+---
+
+### **Authoritative Identity Source**
+- HR data (CSV / JSON simulation)  
+
+### **Access Management**
+- Role-Based Access Control (RBAC)  
+- Attribute-Based Access Control (ABAC)  
+
+### **Logging & Audit**
+- JSON and CSV logs  
+- Markdown-based audit evidence  
+
+---
+
+### **Governance & Compliance Alignment**
+JML processes in this portfolio are aligned with:
+
+- **NIST SP 800-53** (AC, IA, CM, PS control families)  
+- **ISO/IEC 27001** (A.5, A.6, A.8, A.9)  
+- **SOC 2 Trust Services Criteria**  
+- **SOX / HIPAA / PCI-DSS** (where applicable)  
+
+This alignment demonstrates how automated identity lifecycle management directly supports **audit readiness, control effectiveness, and regulatory compliance**.
+
+---
+
+### **Outcomes**
+- Reduced onboarding and offboarding risk  
+- Faster Day-1 productivity through pre-provisioning  
+- Elimination of orphaned and excessive access  
+- Improved audit evidence and traceability  
+- Scalable identity governance across environments  
+
+---
+
+### **Why Identity Lifecycle Automation Matters**
+Automated JML processes ensure that access is **granted, modified, and revoked** in alignment with business events, reducing human error while enforcing governance and Zero Trust principles across the enterprise.
+
+---
+
 
 ## **Okta Labs** 
 
