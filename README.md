@@ -348,6 +348,7 @@ If ($User.StartDate -gt (Get-Date)) {
 
 ### **Example: Automated De-Provisioning Logic**
 
+<pre><code>
 If ($User.Status -eq "Terminated") {
     Disable-Identity
     Remove-RoleAccess
