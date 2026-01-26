@@ -338,11 +338,13 @@ The implementation emphasizes **pre-provisioning (future-state access)**, automa
 
 ### **Example: Automated Pre-Provisioning Logic**
 
+<pre><code>
 If ($User.StartDate -gt (Get-Date)) {
     Create-Identity -Disabled
     Assign-RoleAccess
     Log-ProvisioningEvent
 }
+</code></pre>
 
 ---
 
