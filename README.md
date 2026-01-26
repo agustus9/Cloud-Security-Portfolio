@@ -337,15 +337,14 @@ The implementation emphasizes **pre-provisioning (future-state access)**, automa
 - Support for retention and forensic review   
 
 ### **Example: Automated Pre-Provisioning Logic**
--powershell
 
----
+```powershell
 If ($User.StartDate -gt (Get-Date)) {
     Create-Identity -Disabled
     Assign-RoleAccess
     Log-ProvisioningEvent
 }
----
+
 ---
 
 ### 🤖 Automation & Orchestration
