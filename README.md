@@ -432,7 +432,7 @@ This demonstrates how Zero Trust supports **audit readiness, risk reduction, and
 
 ---
 
-## 🔄 Identity Lifecycle Management (Joiner–Mover–Leaver | JML)
+## 🔄 Identity Lifecycle Management (Joiner Mover Leaver)
 
 ### **Overview**
 This section demonstrates **automated Identity Lifecycle Management (JML)**, covering **Joiner, Mover, and Leaver** processes as a core IAM capability. The focus is on **secure, policy-driven, and auditable provisioning and deprovisioning**, aligned with Zero Trust principles and enterprise governance requirements.
