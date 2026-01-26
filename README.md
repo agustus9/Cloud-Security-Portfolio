@@ -273,6 +273,144 @@ The focus is on translating Zero Trust principles into **practical, auditable, a
 
 ---
 
+## 🔍 Access Reviews & Certification
+
+### **Overview**
+This section demonstrates the design and execution of **Access Reviews and Access Certification** as a core identity governance capability. The objective is to ensure that user access remains **appropriate, justified, and compliant** throughout the identity lifecycle.
+
+Access reviews are implemented as **periodic, risk-based, and event-driven controls**, supporting least privilege, Zero Trust principles, and regulatory compliance.
+
+---
+
+### **Access Review Principles**
+- Access must be periodically validated by accountable owners  
+- High-risk access requires more frequent review  
+- Certification decisions must be traceable and auditable  
+- Automation is preferred over manual review processes  
+- Access reviews complement JML and Zero Trust controls  
+
+---
+
+### **Types of Access Reviews Implemented**
+
+### **User Access Reviews**
+- Validation of user access to applications, systems, and data  
+- Reviewer accountability (manager or application owner)  
+- Identification of excessive or outdated access  
+
+### **Privileged Access Reviews**
+- Periodic review of elevated and administrative access  
+- Validation of business justification  
+- Enforcement of least privilege and time-bound access  
+
+### **Role & Entitlement Reviews**
+- Review of RBAC role definitions and entitlement mappings  
+- Detection of role creep and over-permissioned roles  
+
+### **Event-Driven Reviews**
+- Triggered by role changes, department moves, or high-risk events  
+- Supports continuous governance and Zero Trust monitoring  
+
+---
+
+### **Access Certification Workflow**
+
+### **Trigger**
+- Scheduled review cycle or risk-based event
+
+### **Review Process**
+- Access inventory generated automatically  
+- Reviewers certify, revoke, or escalate access  
+- Decisions recorded with justification  
+
+### **Enforcement**
+- Revoked access removed automatically  
+- Certification outcomes logged and retained  
+
+---
+
+### **Tools & Technologies**
+
+**Identity & Access Governance**
+- Azure AD / Entra ID Access Reviews  
+- Active Directory  
+
+### **Automation & Reporting**
+- PowerShell  
+- Python  
+
+### **Access Models**
+- Role-Based Access Control (RBAC)  
+- Attribute-Based Access Control (ABAC)  
+
+### **Audit & Evidence**
+- CSV and JSON access review reports  
+- Markdown-based certification records
+
+### **Access Review Automation**
+
+<pre><code>
+If ($Review.Cycle -eq "Quarterly") {
+
+    Get-UserEntitlements
+    Send-ReviewRequest
+    Capture-ReviewerDecision
+
+    If ($Decision -eq "Revoke") {
+        Remove-RoleAccess
+        Revoke-PrivilegedAccess
+    }
+
+    Log-AccessReviewEvidence
+}
+  </code></pre>
+
+### **Access Certification Automation**
+
+<pre><code>
+  If ($Certification.Status -eq "Pending") {
+
+    Notify-Certifier
+    Await-Attestation
+
+    If ($Certification.Decision -eq "Denied") {
+        Disable-Identity
+        Remove-RoleAccess
+        Invalidate-Sessions
+    }
+
+    Archive-CertificationEvidence
+}
+  </code></pre>
+  
+---
+
+### **Governance & Compliance Alignment**
+Access reviews and certification activities align with:
+
+- **NIST SP 800-53** (AC-2, AC-3, AC-6, IA-2)  
+- **ISO/IEC 27001** (A.9 Access Control)  
+- **SOC 2 Trust Services Criteria**  
+- **SOX, HIPAA, PCI-DSS** (where applicable)  
+
+These controls support **periodic access validation, segregation of duties, and audit readiness**.
+
+---
+
+### **Outcomes**
+- Reduced excessive and dormant access  
+- Improved accountability for access decisions  
+- Stronger compliance posture  
+- Early detection of access risk  
+- Clear audit trails and certification evidence  
+
+---
+
+### **Why Access Certification Matters**
+Access reviews and certification ensure that access is not only **granted correctly**, but **remains appropriate over time**, closing the governance gap left by provisioning and deprovisioning alone.
+
+---
+
 ### **Governance & Compliance Alignment**
 Zero Trust implementations in this portfolio align with:
 
