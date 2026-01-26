@@ -13,7 +13,7 @@
     <img 
       src="my-ng-files/IAM & Cloud Security portfolio banner.png" 
       alt="IAM & Cloud Security portfolio banner.png" 
-      style="width: 1020px; height: 720px; border-radius: 12px;" 
+      style="width: 1080px; height: 800px; border-radius: 12px;" 
     />
   </p>
 </body>
