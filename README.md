@@ -419,7 +419,7 @@ In this lab, participants explored how to implement and enforce a comprehensive 
 
 ---
 
-## 📚 Microsoft Identity and Access Labs
+## **Microsoft Identity and Access Labs**
 
 ### 🚀 Lab 1: Configure and manage built-in and custom Microsoft Entra roles
 This lab guides you through configuring and managing Microsoft Entra (Azure AD) roles, including assigning built-in roles to users and creating custom roles tailored to specific administrative needs. You will learn how to assign roles securely, understand role scopes, and customize roles to implement the principle of least privilege effectively in your environment.
@@ -581,7 +581,7 @@ This lab demonstrates the design and implementation of a Conditional Access poli
 
 
 ### ✅ Lab 9: Implement Conditional Access policy assignments and controls
-his lab demonstrates the implementation of Azure Conditional Access policies to enforce identity-based security controls across cloud applications. The solution applies policy assignments based on user roles, device compliance status, location, and sign-in risk level. Access controls are enforced through multi-factor authentication (MFA), device compliance requirements, and session restrictions, ensuring only trusted users and devices can access corporate cloud resources.
+This lab demonstrates the implementation of Azure Conditional Access policies to enforce identity-based security controls across cloud applications. The solution applies policy assignments based on user roles, device compliance status, location, and sign-in risk level. Access controls are enforced through multi-factor authentication (MFA), device compliance requirements, and session restrictions, ensuring only trusted users and devices can access corporate cloud resources.
 
 The lab showcases how Conditional Access enables zero-trust access decisions by evaluating real-time identity risk signals and contextual factors. Policies are scoped using precise user, group, application, and platform assignments to enforce least-privilege access while minimizing business disruption. Audit logs and sign-in reports are used to validate policy effectiveness and support security monitoring and compliance requirements.
 
@@ -679,6 +679,8 @@ The lab showcases how organizations build proactive identity security operations
 ![Add Users](https://raw.githubusercontent.com/agustus9/Cloud-Security-IAM-Portfolio/main/my-ng-files/Configuring_notifications4.png).
 
 ---
+
+## **SailPoint Labs**
 
 ## 🛠️ Third-Party IAM Solutions
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
