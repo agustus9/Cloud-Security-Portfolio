@@ -202,6 +202,97 @@ IAAA Framework
 
 ---
 
+## 🛡️ Zero Trust Architecture (ZTA)
+
+### Overview
+This section demonstrates the design and implementation of **Zero Trust Architecture (ZTA)** as a foundational security model across identity, cloud, and data environments. Zero Trust replaces perimeter-based trust with **continuous verification**, enforcing least privilege and context-aware access decisions at every layer.
+
+The focus is on translating Zero Trust principles into **practical, auditable, and scalable enterprise controls** aligned with governance and compliance requirements.
+
+---
+
+### **Core Zero Trust Principles**
+- Never trust, always verify  
+- Least privilege access  
+- Continuous authentication and authorization  
+- Assume breach and limit blast radius  
+- Explicit, policy-driven access decisions  
+
+---
+
+### ZTA Domains Implemented
+
+### **Identity & Access**
+- Identity as the primary security perimeter  
+- Conditional and risk-based access policies  
+- Multi-Factor Authentication (MFA) and passwordless access  
+- Privileged Access Management (PAM) and Just-In-Time (JIT) access  
+
+### **Cloud & Application Security**
+- Secure access to cloud workloads and SaaS applications  
+- Identity-aware access to APIs and services  
+- Workload identity and service-to-service authentication  
+- Role-based and attribute-based access controls  
+
+### **Endpoint & Device Trust**
+- Device posture and compliance evaluation  
+- Integration with endpoint and MDM solutions  
+- Continuous validation of endpoint health  
+
+### **Data Protection**
+- Context-aware access to sensitive data  
+- Encryption and data classification  
+- Data Loss Prevention (DLP) enforcement  
+
+---
+
+### Tools & Technologies
+
+### **Identity & IAM**
+- Azure AD / Entra ID  
+- AWS IAM  
+- Okta  
+- Ping Identity  
+
+### **Zero Trust Enforcement**
+- Microsoft Conditional Access  
+- Zscaler / Prisma Access  
+- CyberArk / BeyondTrust (PAM)  
+
+### **Cloud Security**
+- AWS (IAM, SCPs, Security Hub)  
+- Azure (RBAC, PIM, Defender for Cloud)  
+
+### **Endpoint Security**
+- Microsoft Intune  
+- Endpoint Detection & Response (EDR) tools  
+
+### **Data Security**
+- Microsoft Purview  
+- DLP and Information Protection solutions  
+
+---
+
+### **Governance & Compliance Alignment**
+Zero Trust implementations in this portfolio align with:
+
+- **NIST SP 800-207 (Zero Trust Architecture)**  
+- **NIST SP 800-53** (AC, IA, SC, CM control families)  
+- **ISO/IEC 27001**  
+- **SOC 2 Trust Services Criteria**  
+
+This demonstrates how Zero Trust supports **audit readiness, risk reduction, and regulatory compliance** in enterprise environments.
+
+---
+
+### **Outcomes**
+- Reduced attack surface and lateral movement  
+- Improved visibility into access and data usage  
+- Stronger compliance posture  
+- Scalable security for cloud-first organizations  
+- Clear linkage between technical controls and business risk
+
+
 ## **Okta Labs** 
 
 ## **User Management and Role Assignment**
