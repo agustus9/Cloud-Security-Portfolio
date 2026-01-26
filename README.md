@@ -333,11 +333,7 @@ Access reviews are implemented as **periodic, risk-based, and event-driven contr
 
 **Identity & Access Governance**
 - Azure AD / Entra ID Access Reviews  
-- Active Directory  
-
-### **Automation & Reporting**
-- PowerShell  
-- Python  
+- Active Directory    
 
 ### **Access Models**
 - Role-Based Access Control (RBAC)  
@@ -346,6 +342,10 @@ Access reviews are implemented as **periodic, risk-based, and event-driven contr
 ### **Audit & Evidence**
 - CSV and JSON access review reports  
 - Markdown-based certification records
+
+### **Automation & Reporting**
+- PowerShell  
+- Python
 
 ### **Access Review Automation**
 
@@ -474,7 +474,11 @@ The implementation emphasizes **pre-provisioning (future-state access)**, automa
 - Preservation of logs and evidence  
 - Support for retention and forensic review   
 
-### **Example: Automated Provisioning Logic**
+### **Automation & Reporting**
+- PowerShell  
+- Python
+
+### **Automated Provisioning Logic**
 
 <pre><code>
 If ($User.StartDate -gt (Get-Date)) {
@@ -484,7 +488,7 @@ If ($User.StartDate -gt (Get-Date)) {
 }
 </code></pre>
 
-### **Example: Automated De-Provisioning Logic**
+### **Automated De-Provisioning Logic**
 
 <pre><code>
 If ($User.Status -eq "Terminated") {
