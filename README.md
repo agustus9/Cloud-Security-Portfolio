@@ -336,7 +336,7 @@ The implementation emphasizes **pre-provisioning (future-state access)**, automa
 - Preservation of logs and evidence  
 - Support for retention and forensic review   
 
-### **Example: Automated Pre-Provisioning Logic**
+### **Example: Automated Provisioning Logic**
 
 <pre><code>
 If ($User.StartDate -gt (Get-Date)) {
