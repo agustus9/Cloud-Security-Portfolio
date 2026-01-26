@@ -11,7 +11,7 @@
 <body>
   <p align="center">
     <img 
-      src="iam_cloud_security_portfolio.png" 
+      src="IAM & Cloud Security portfolio banner.png." 
       alt="IAM & Cloud Security Portfolio." 
       style="width: 1020px; height: 620px; border-radius: 12px;" 
     />
