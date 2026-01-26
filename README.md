@@ -338,6 +338,7 @@ The implementation emphasizes **pre-provisioning (future-state access)**, automa
 
 ### **Example: Automated Pre-Provisioning Logic**
 -powershell
+
 If ($User.StartDate -gt (Get-Date)) {
     Create-Identity -Disabled
     Assign-RoleAccess
