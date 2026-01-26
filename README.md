@@ -356,6 +356,7 @@ If ($User.Status -eq "Terminated") {
     Invalidate-Sessions
     Log-DeprovisioningEvent
 }
+</code></pre>
 
 ---
 
