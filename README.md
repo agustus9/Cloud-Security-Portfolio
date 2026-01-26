@@ -11,7 +11,7 @@
 <body>
   <p align="center">
     <img 
-      src="IAM & Cloud Security portfolio banner.png." 
+      src="my-ng-files/IAM & Cloud Security portfolio banner.png." 
       alt="IAM & Cloud Security portfolio banner.png." 
       style="width: 1020px; height: 620px; border-radius: 12px;" 
     />
