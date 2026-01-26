@@ -349,12 +349,11 @@ If ($User.StartDate -gt (Get-Date)) {
 ### **Example: Automated De-Provisioning Logic**
 
 If ($User.Status -eq "Terminated") {
-
-Disable-Identity
-Remove-RoleAccess
-Revoke-PrivilegedAccess
-Invalidate-Sessions
-Log-DeprovisioningEvent
+    Disable-Identity
+    Remove-RoleAccess
+    Revoke-PrivilegedAccess
+    Invalidate-Sessions
+    Log-DeprovisioningEvent
 }
 
 ---
